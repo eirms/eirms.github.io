@@ -5,11 +5,11 @@
     <loc>https://eirms.com/about/</loc>
     <lastmod>2022-08-12T12:01:43+08:00</lastmod>
   </url><url>
-    <loc>https://eirms.com/tags/flomo/</loc>
-    <lastmod>2022-05-08T16:29:46+08:00</lastmod>
+    <loc>https://eirms.com/posts/summary-of-reading-in-the-first-half-of-2022/</loc>
+    <lastmod>2022-07-02T22:41:34+08:00</lastmod>
   </url><url>
     <loc>https://eirms.com/</loc>
-    <lastmod>2022-05-08T16:29:46+08:00</lastmod>
+    <lastmod>2022-07-02T22:41:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -21,14 +21,8 @@
                 href="https://eirms.com/"
                 />
   </url><url>
-    <loc>https://eirms.com/tags/notion/</loc>
-    <lastmod>2022-05-08T16:29:46+08:00</lastmod>
-  </url><url>
-    <loc>https://eirms.com/tags/obsidian/</loc>
-    <lastmod>2022-05-08T16:29:46+08:00</lastmod>
-  </url><url>
     <loc>https://eirms.com/posts/</loc>
-    <lastmod>2022-05-08T16:29:46+08:00</lastmod>
+    <lastmod>2022-07-02T22:41:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -41,7 +35,7 @@
                 />
   </url><url>
     <loc>https://eirms.com/tags/</loc>
-    <lastmod>2022-05-08T16:29:46+08:00</lastmod>
+    <lastmod>2022-07-02T22:41:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -52,6 +46,18 @@
                 hreflang="en"
                 href="https://eirms.com/tags/"
                 />
+  </url><url>
+    <loc>https://eirms.com/tags/%E8%AF%BB%E4%B9%A6/</loc>
+    <lastmod>2022-07-02T22:41:34+08:00</lastmod>
+  </url><url>
+    <loc>https://eirms.com/tags/flomo/</loc>
+    <lastmod>2022-05-08T16:29:46+08:00</lastmod>
+  </url><url>
+    <loc>https://eirms.com/tags/notion/</loc>
+    <lastmod>2022-05-08T16:29:46+08:00</lastmod>
+  </url><url>
+    <loc>https://eirms.com/tags/obsidian/</loc>
+    <lastmod>2022-05-08T16:29:46+08:00</lastmod>
   </url><url>
     <loc>https://eirms.com/posts/notes-software/</loc>
     <lastmod>2022-05-08T16:29:46+08:00</lastmod>
