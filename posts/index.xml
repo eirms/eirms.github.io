@@ -8,10 +8,10 @@
     <lastBuildDate>Sun, 08 May 2022 16:29:46 +0800</lastBuildDate><atom:link href="https://eirms.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>从自身需求出发，选择自己合适的笔记软件</title>
-      <link>https://eirms.com/posts/note-apps/</link>
+      <link>https://eirms.com/posts/notes-software/</link>
       <pubDate>Sun, 08 May 2022 16:29:46 +0800</pubDate>
       
-      <guid>https://eirms.com/posts/note-apps/</guid>
+      <guid>https://eirms.com/posts/notes-software/</guid>
       <description>最近，我建立的中文博客圈微信群里掀起了一股笔记软件讨论风。或者说这个话题一直没有断过，不断有人安利新的笔记软件，咨询使用方法，前段时间我在日</description>
       <content:encoded><![CDATA[<blockquote>
 <p>最近，我建立的中文博客圈微信群里掀起了一股笔记软件讨论风。或者说这个话题一直没有断过，不断有人安利新的笔记软件，咨询使用方法，前段时间我在日记里简单写了我对于笔记软件的用途，今天趁此机会聊聊我对于选择笔记软件的看法。</p>
@@ -19,15 +19,25 @@
 <p>“好记性不如烂笔头”，我觉得这是大部分人选择记笔记的主要原因之一，人的记忆力是有限的，脑海中能容纳的东西有限，记笔记就成了我们开发第二个大脑的方式。从最原始的手写笔记，到现在各种笔记软件层出不穷，各具特色，极大地丰富了我们对记笔记的理解和使用，但这或许也会让我们陷入选择的困境。可供我们选择的太多太多了，经常会有人问：我应该用哪一款笔记软件。在我看来，从自身需求出发，选择自己合适的笔记软件，即先了解自己为什么要记笔记。</p>
 <p>以下皆为我个人看法，仅供参考。</p>
 <h2 id="notion">Notion</h2>
-<p>首先，最客观的原因，记忆力有限，需要用别的方式接收、存储我们获得的信息。在我生活和学习的许多方面，都需要记笔记。</p>
+<p>首先，最客观的原因，记忆力有限，需要用别的方式接收和存储我们获得的信息。在我生活和学习的许多方面，都需要记笔记。</p>
 <p>我看书时有一个习惯：划线精彩的句子、段落，随手写下自己的评论与想法，看完整本之后，偶尔会写写对这本书的感想。在过去，很多时候写完、划线完，这本书就搁置在一旁，很少再去翻阅，甚至时间久了，自己写过什么内容都忘了，为了改变这种情况，我用 <a href="https://www.notion.so/">Notion</a> 建立了一个个人书库。Notion 拓展性很强，有想法有能力，就可以把 database 和 block 玩出各种各样的花样。All in one，功能丰富并且强大，正因如此，我也还在学习使用。</p>
 <p>将每一本看过的书的作者、阅读时间、阅读平台等信息在 Notion 中进行标记，并且将划线的精彩句子段落和感想、评论同步，日后随便点开一本书，能轻松回忆起有关这本书的内容。对于看过的电影，也可以进行类似的操作。</p>
+<p>
+  <img loading="lazy" src="https://rmt.ladydaily.com/fetch/lucy/storage/2022-05-07234653.png" alt=""  /></p>
+<p>
+  <img loading="lazy" src="https://rmt.ladydaily.com/fetch/lucy/storage/2022-05-07234751.png" alt=""  /></p>
 <h2 id="flomo">flomo</h2>
-<p>现在获取信息的方式多种多样，主动获取也好，被动获取也罢，我们总会接收到对自己有用的信息和内容，比如我们认同的某个人的观点或理念，或是某篇文章传递的思想，但是这些对我们有用的内容仅仅看过一遍就够了吗？我在使用 <a href="https://flomoapp.com">flomo</a> 时，参考了其联合创始人少楠的<a href="https://help.flomoapp.com/thinking/iarp.html">标签法</a>，将我从各个平台、渠道获取到的信息，那些我认为应该收藏保存的，在 flomo 上专门用标签 <code>#Resource</code> 管理，它们对我来说就是有价值的资源，可以利用的资源，日后在进行整理时，我会根据该信息所属类别进行细化，例如打上 <code>#心理学</code> 、 <code>#人力资源管理</code>、 <code>#写作</code> 等标签。通过标签进行分类，检索也十分方便。</p>
+<p>现在获取信息的方式多种多样，主动获取也好，被动获取也罢，我们总会接收到对自己有用的信息和内容，比如我们认同的某个人的观点或理念，或是某篇文章传递的思想，但是这些对我们有用的内容仅仅看过一遍就够了吗？我在使用 <a href="https://flomoapp.com">flomo</a> 时，参考了其联合创始人少楠的<a href="https://help.flomoapp.com/thinking/iarp.html">标签法</a>，将我从各个平台、渠道获取到的信息，那些我认为应该收藏保存的，在 flomo 上专门用标签 #Resource 管理，它们对我来说就是有价值的资源，可以利用的资源，日后在进行整理时，我会根据该信息所属类别进行细化，例如打上 #心理学 、 #人力资源管理、 #写作 等标签。通过标签进行分类，检索也十分方便。</p>
 <p>前几天我在写日记的时候，问了自己一个问题，我为什么不使用手机自带的备忘录记录我随时随地的想法呢？手机备忘录存在着以下缺点：不支持打标签、不支持引用和双链、云端同步不够友好，存在延迟。而这些缺点恰恰是 flomo 的优点，及时、方便、快捷，我可以在微信公众号上随时随地往 flomo 记录我的想法，随时可以批注。尽管我有每天写日记的习惯，日记里也会记录我的想法和思考，但是我不可能随时带着日记本，记录时不时闪过的想法，flomo 是最适合我的选择。</p>
+<p>
+  <img loading="lazy" src="https://rmt.ladydaily.com/fetch/lucy/storage/2022-05-07235927.png" alt=""  /></p>
+<p>
+  <img loading="lazy" src="https://rmt.ladydaily.com/fetch/lucy/storage/2022-05-08000529.png" alt=""  /></p>
 <h2 id="obsidian">Obsidian</h2>
 <p>对于 <a href="https://obsidian.md/">Obsidian</a>，它是我接触最晚的一款笔记软件，但目前也已成为我经常使用的笔记软件之一。自从学习了 Markdown 的相关内容之后，才发现 Markdown 简直是天使一般的存在，真的香，目前已经掌握了常用的语法，能够应付日常的长文写作，目前你正在阅读的这篇，就是我在 Obsidian 上用 Markdown 写的。</p>
 <p>和 Notion 、flomo 最大的不同，它是离线本地记录的，所有的笔记都是以 .md 的格式保存在本地设备，Obsidian 相当于打开了一个装有许多 .md 文件的文件夹。支持双链、标签索引，搜索速度也非常快，并且拥有一个庞大的插件库，使用网友制作的插件，可以将 Obsidian 打造成自己的工作台，拓展性极高。由于我目前在 Obsidian 上最大的需求就是使用 Markdown 写作，所以是将它当做一个 Markdown 编辑器使用，数据都保存在本地，不需要协同和分享，足够。</p>
+<p>
+  <img loading="lazy" src="https://rmt.ladydaily.com/fetch/lucy/storage/2022-05-08001648.png?w=1280" alt=""  /></p>
 <p>根据上面我写的内容来看，看书、看电影、整理信息、记录想法……这些都是需要用到笔记软件，因为有需求，才有引发行为的动机，才让我选择使用 Notion、flomo、Obsidian。首先要明确自己的需求是什么，再根据需求寻找合适的软件，一款笔记软件可能很难满足所有的需求，那就搭配使用，效果更佳，每一款笔记软件都有它自身的定位，就像 <a href="https://help.flomoapp.com/">flomo 101</a> 上写的：</p>
 <blockquote>
 <p>我们深知做好一件小事就已经很不容易，所以不会试图在功能层面 All in one，如果你对 flomo 有下面的预期，那么可以选择我们推荐的其他产品替代。</p>

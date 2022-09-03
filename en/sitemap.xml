@@ -5,6 +5,9 @@
     <loc>https://eirms.com/about/</loc>
     <lastmod>2022-08-12T12:01:43+08:00</lastmod>
   </url><url>
+    <loc>https://eirms.com/tags/flomo/</loc>
+    <lastmod>2022-05-08T16:29:46+08:00</lastmod>
+  </url><url>
     <loc>https://eirms.com/</loc>
     <lastmod>2022-05-08T16:29:46+08:00</lastmod>
     <xhtml:link
@@ -17,6 +20,12 @@
                 hreflang="en"
                 href="https://eirms.com/"
                 />
+  </url><url>
+    <loc>https://eirms.com/tags/notion/</loc>
+    <lastmod>2022-05-08T16:29:46+08:00</lastmod>
+  </url><url>
+    <loc>https://eirms.com/tags/obsidian/</loc>
+    <lastmod>2022-05-08T16:29:46+08:00</lastmod>
   </url><url>
     <loc>https://eirms.com/posts/</loc>
     <lastmod>2022-05-08T16:29:46+08:00</lastmod>
@@ -31,7 +40,20 @@
                 href="https://eirms.com/posts/"
                 />
   </url><url>
-    <loc>https://eirms.com/posts/note-apps/</loc>
+    <loc>https://eirms.com/tags/</loc>
+    <lastmod>2022-05-08T16:29:46+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://eirms.com/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eirms.com/tags/"
+                />
+  </url><url>
+    <loc>https://eirms.com/posts/notes-software/</loc>
     <lastmod>2022-05-08T16:29:46+08:00</lastmod>
   </url><url>
     <loc>https://eirms.com/posts/english-learning/</loc>
@@ -77,18 +99,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://eirms.com/series/"
-                />
-  </url><url>
-    <loc>https://eirms.com/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://eirms.com/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eirms.com/tags/"
                 />
   </url>
 </urlset>
