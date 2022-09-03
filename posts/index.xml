@@ -5,7 +5,18 @@
     <link>https://eirms.com/posts/</link>
     <description>Recent content in Posts on HuHeXian&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 08 May 2022 16:29:46 +0800</lastBuildDate><atom:link href="https://eirms.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Sep 2022 21:17:22 +0800</lastBuildDate><atom:link href="https://eirms.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>演示文章</title>
+      <link>https://eirms.com/posts/f555b784/</link>
+      <pubDate>Sat, 03 Sep 2022 21:17:22 +0800</pubDate>
+      
+      <guid>https://eirms.com/posts/f555b784/</guid>
+      <description>演示文章测试</description>
+      <content:encoded><![CDATA[<p>演示文章测试</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>从自身需求出发，选择自己合适的笔记软件</title>
       <link>https://eirms.com/posts/note-apps/</link>
@@ -22,7 +33,6 @@
 <p>首先，最客观的原因，记忆力有限，需要用别的方式接收、存储我们获得的信息。在我生活和学习的许多方面，都需要记笔记。</p>
 <p>我看书时有一个习惯：划线精彩的句子、段落，随手写下自己的评论与想法，看完整本之后，偶尔会写写对这本书的感想。在过去，很多时候写完、划线完，这本书就搁置在一旁，很少再去翻阅，甚至时间久了，自己写过什么内容都忘了，为了改变这种情况，我用 <a href="https://www.notion.so/">Notion</a> 建立了一个个人书库。Notion 拓展性很强，有想法有能力，就可以把 database 和 block 玩出各种各样的花样。All in one，功能丰富并且强大，正因如此，我也还在学习使用。</p>
 <p>将每一本看过的书的作者、阅读时间、阅读平台等信息在 Notion 中进行标记，并且将划线的精彩句子段落和感想、评论同步，日后随便点开一本书，能轻松回忆起有关这本书的内容。对于看过的电影，也可以进行类似的操作。</p>
-<p><img loading="lazy" src="/posts/note-apps/pic/2022-05-07234653.png" type="" alt="Notion"  /></p>
 <h2 id="flomo">flomo</h2>
 <p>现在获取信息的方式多种多样，主动获取也好，被动获取也罢，我们总会接收到对自己有用的信息和内容，比如我们认同的某个人的观点或理念，或是某篇文章传递的思想，但是这些对我们有用的内容仅仅看过一遍就够了吗？我在使用 <a href="https://flomoapp.com">flomo</a> 时，参考了其联合创始人少楠的<a href="https://help.flomoapp.com/thinking/iarp.html">标签法</a>，将我从各个平台、渠道获取到的信息，那些我认为应该收藏保存的，在 flomo 上专门用标签 <code>#Resource</code> 管理，它们对我来说就是有价值的资源，可以利用的资源，日后在进行整理时，我会根据该信息所属类别进行细化，例如打上 <code>#心理学</code> 、 <code>#人力资源管理</code>、 <code>#写作</code> 等标签。通过标签进行分类，检索也十分方便。</p>
 <p>前几天我在写日记的时候，问了自己一个问题，我为什么不使用手机自带的备忘录记录我随时随地的想法呢？手机备忘录存在着以下缺点：不支持打标签、不支持引用和双链、云端同步不够友好，存在延迟。而这些缺点恰恰是 flomo 的优点，及时、方便、快捷，我可以在微信公众号上随时随地往 flomo 记录我的想法，随时可以批注。尽管我有每天写日记的习惯，日记里也会记录我的想法和思考，但是我不可能随时带着日记本，记录时不时闪过的想法，flomo 是最适合我的选择。</p>
