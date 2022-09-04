@@ -5,8 +5,21 @@
     <loc>https://eirms.com/about/</loc>
     <lastmod>2022-08-12T12:01:43+08:00</lastmod>
   </url><url>
-    <loc>https://eirms.com/posts/summary-of-reading-in-the-first-half-of-2022/</loc>
+    <loc>https://eirms.com/blog/summary-of-reading-in-the-first-half-of-2022/</loc>
     <lastmod>2022-07-02T22:41:34+08:00</lastmod>
+  </url><url>
+    <loc>https://eirms.com/blog/</loc>
+    <lastmod>2022-07-02T22:41:34+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://eirms.com/zh/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eirms.com/blog/"
+                />
   </url><url>
     <loc>https://eirms.com/</loc>
     <lastmod>2022-07-02T22:41:34+08:00</lastmod>
@@ -19,19 +32,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://eirms.com/"
-                />
-  </url><url>
-    <loc>https://eirms.com/posts/</loc>
-    <lastmod>2022-07-02T22:41:34+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://eirms.com/zh/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eirms.com/posts/"
                 />
   </url><url>
     <loc>https://eirms.com/tags/</loc>
@@ -59,11 +59,14 @@
     <loc>https://eirms.com/tags/obsidian/</loc>
     <lastmod>2022-05-08T16:29:46+08:00</lastmod>
   </url><url>
-    <loc>https://eirms.com/posts/notes-software/</loc>
+    <loc>https://eirms.com/blog/notes-software/</loc>
     <lastmod>2022-05-08T16:29:46+08:00</lastmod>
   </url><url>
-    <loc>https://eirms.com/posts/english-learning/</loc>
+    <loc>https://eirms.com/blog/english-learning/</loc>
     <lastmod>2022-04-22T22:06:19+08:00</lastmod>
+  </url><url>
+    <loc>https://eirms.com/blog/my-thoughts-and-ideas-on-reading/</loc>
+    <lastmod>2021-12-21T10:38:47+08:00</lastmod>
   </url><url>
     <loc>https://eirms.com/archives/</loc>
   </url><url>

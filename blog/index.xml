@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog on HuHeXian&#39;s Blog</title>
+    <link>https://eirms.com/blog/</link>
+    <description>Recent content in Blog on HuHeXian&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 02 Jul 2022 22:41:34 +0800</lastBuildDate><atom:link href="https://eirms.com/blog/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

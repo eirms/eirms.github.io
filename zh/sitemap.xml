@@ -62,16 +62,16 @@
                 href="https://eirms.com/zh/tags/"
                 />
   </url><url>
-    <loc>https://eirms.com/zh/posts/</loc>
+    <loc>https://eirms.com/zh/blog/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://eirms.com/posts/"
+                href="https://eirms.com/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://eirms.com/zh/posts/"
+                href="https://eirms.com/zh/blog/"
                 />
   </url>
 </urlset>
