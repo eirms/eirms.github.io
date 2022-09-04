@@ -4,6 +4,10 @@
     <title>Authors on HuHeXian&#39;s Blog</title>
     <link>https://eirms.com/authors/</link>
     <description>Recent content in Authors on HuHeXian&#39;s Blog</description>
+    <image>
+      <url>https://eirms.com/favicon.ico</url>
+      <link>https://eirms.com/favicon.ico</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://eirms.com/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
