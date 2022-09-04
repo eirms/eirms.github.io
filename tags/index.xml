@@ -46,5 +46,55 @@
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
+    <item>
+      <title>消费</title>
+      <link>https://eirms.com/tags/%E6%B6%88%E8%B4%B9/</link>
+      <pubDate>Mon, 06 Dec 2021 10:53:33 +0800</pubDate>
+      
+      <guid>https://eirms.com/tags/%E6%B6%88%E8%B4%B9/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>生活</title>
+      <link>https://eirms.com/tags/%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Mon, 06 Dec 2021 10:53:33 +0800</pubDate>
+      
+      <guid>https://eirms.com/tags/%E7%94%9F%E6%B4%BB/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>音乐</title>
+      <link>https://eirms.com/tags/%E9%9F%B3%E4%B9%90/</link>
+      <pubDate>Mon, 06 Dec 2021 10:53:33 +0800</pubDate>
+      
+      <guid>https://eirms.com/tags/%E9%9F%B3%E4%B9%90/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://eirms.com/tags/markdown/</link>
+      <pubDate>Mon, 21 Jun 2021 10:59:59 +0800</pubDate>
+      
+      <guid>https://eirms.com/tags/markdown/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>写作</title>
+      <link>https://eirms.com/tags/%E5%86%99%E4%BD%9C/</link>
+      <pubDate>Mon, 21 Jun 2021 10:59:59 +0800</pubDate>
+      
+      <guid>https://eirms.com/tags/%E5%86%99%E4%BD%9C/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

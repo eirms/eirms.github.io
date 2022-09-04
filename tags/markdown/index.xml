@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>markdown on HuHeXian&#39;s Blog</title>
+    <link>https://eirms.com/tags/markdown/</link>
+    <description>Recent content in markdown on HuHeXian&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 21 Jun 2021 10:59:59 +0800</lastBuildDate><atom:link href="https://eirms.com/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>保持专注与沉浸式写作</title>
+      <link>https://eirms.com/posts/staying-focused-and-immersed-in-writing/</link>
+      <pubDate>Mon, 21 Jun 2021 10:59:59 +0800</pubDate>
+      
+      <guid>https://eirms.com/posts/staying-focused-and-immersed-in-writing/</guid>
+      <description>看过我博客的朋友应该也知道，我大部分写的东西其实都是没有一个明确的主题，洋洋洒洒几百甚至几千字，类似于随笔或随记，没有明确的主题、没有字数限</description>
+      <content:encoded><![CDATA[<p>看过我博客的朋友应该也知道，我大部分写的东西其实都是没有一个明确的主题，洋洋洒洒几百甚至几千字，类似于随笔或随记，没有明确的主题、没有字数限制。</p>
+<p>但是不管是写特定主题的文章还是随手记，都需要一个沉浸式的环境来写作。所谓沉浸式写作，我的理解即注意力都集中在写作上，心无旁骛地完成这一项工作。朱以撒先生在《纸上思量》中写自己写字，“每一次下笔都像是举办一个庄重的仪式”，“研墨以使心静，焚香以使室清，沐浴更衣以使神清气爽”，虽然不能像朱以撒先生那般严肃认真，但也要求自己能全身心投入到写作当中。</p>
+<p>在手机上看书最大的一个弊端即容易被各种消息通知分心，忍不住点开微信QQ看看消息，忍不住这里翻翻那里看看，在手机上写作更是会遇到这种问题。考虑到这个问题，我很少在手机上写博客，前段时间还在寻找好用的手机写长文软件，后来想想我写东西除了用电脑就是用笔，就打消了这个念头。除非身边没有纸笔和电脑，我会用手机自带的备忘录先写着，再打开电脑登录云端拷贝出来。</p>
+<p>在电脑上写东西也会遇到这类问题，在 word 上有一个沉浸式视图，撰写时打开沉浸式视图，整个界面仅剩下文本框和几个选项，开启全屏模式则看不到最下面的任务栏，看不到消息通知，看不到各种转移注意力的东西，可以全身心地写。现在很少在 WordPress 后台自带的编辑器里写东西，一是考虑到不稳定，写着写着数据容易丢失；二则考虑容易分心。于是尽量选择“离线写作”，断开网络，在 word 上写好；拿出纸和笔，在纸上写好提纲，再仔细地写完全部。虽然后者可能花费的时间更长，但是这的的确确在写作，有的时候只有拿上了笔，在纸上写下了字，才感觉自己真的在写作。</p>
+<p>使用过 Markdown 一段时间，它被称之为“沉浸式写作神器”。在电脑上写作，主要工具是键盘，但有的格式需要用到鼠标来操作，在这两种操作之间切换严重影响写作的专注度，也就很容易影响写作的灵感。 Markdown 是一种标记，完全只需要键盘输入相应的符号即可实现对应的格式。</p>
+<p>做任何事情都需要专注，大事小事，任何干扰自己工作或学习的东西都应该想办法剔除。专注程度不仅影响工作与学习的效率，更会影响质量。</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
