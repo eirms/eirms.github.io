@@ -105,5 +105,21 @@
 ]]></content:encoded>
     </item>
     
+    <item>
+      <title>简简单单，写写博客</title>
+      <link>https://eirms.com/posts/just-write-blog-simply/</link>
+      <pubDate>Fri, 22 Jan 2021 09:52:41 +0800</pubDate>
+      
+      <guid>https://eirms.com/posts/just-write-blog-simply/</guid>
+      <description>怎么又换成twenty twelve主题了？我也想问自己为什么，可能我就适合这样的吧，字多图少，不会配图，瞎放也丑，干脆以后写东西能不放图就不</description>
+      <content:encoded><![CDATA[<p>怎么又换成twenty twelve主题了？我也想问自己为什么，可能我就适合这样的吧，字多图少，不会配图，瞎放也丑，干脆以后写东西能不放图就不放图，正好也减轻我CDN流量压力。前两天博客被人CC了一番，百度云加速免费版直接超量，要想继续用，只能用付费版，不当他的韭菜了，当腾讯云的韭菜吧。在<a href="https://www.youngfree.cn/">杨景文</a>博主的帮助下，配置了腾讯云CDN，原本一起套了又拍云，但是有问题，就放弃了。</p>
+<p>正如<a href="https://laozhang.org/">张波博主</a>所说：停止一些无意义的折腾。简简单单的写个博客，就是现在最好的追求。<a href="http://www.guanhaodong.com/">官浩东</a>博主现在差不多也和我一样的心态，折腾来折腾去，WordPress和Typecho都用过了，最后还是和我一样用上了twenty twelve。说起来，他开始写博客多多少少还和我有点关系，他看到我在料Sam的评论，“点进去一看，嚯，高中生博主，好厉害，我也要弄”，于是他就注册搭建了。</p>
+<p>看到群里<a href="https://imzm.im/">陈仓颉</a>博主在折腾博客的邮件发信问题，折腾得头都大了，有点像当初的我，左搞搞右搞搞，还是没弄成，当时索性不搞这个功能了，到后来换到腾讯云服务器才折腾好。基本的弄好我觉得就足够了，写博客强调的是写，能写就行，主题也是次要，能入眼就行，顶多稍微改改细节。</p>
+<p>其实换成twenty twelve还有另一个原因，沙唐桔搞了一个主题增强<a href="https://cyhour.com/1626/">插件</a>，一下子就解决了蛮多官方主题的一些问题，让我立即就想上手了，于是真的上手了。</p>
+<p>在整理的时候，顺便看了看2018年写的文章，那一年总共有116篇，仔细看的话，有的确实不能算是文章，水的很。现在，也水的很，随性写一写。</p>
+<p>专注写作，专注阅读，专注思考。主题什么的，别想打扰我。</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

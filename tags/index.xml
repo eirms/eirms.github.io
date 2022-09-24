@@ -260,5 +260,35 @@
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
+    <item>
+      <title>WordPress</title>
+      <link>https://eirms.com/tags/wordpress/</link>
+      <pubDate>Sat, 06 Feb 2021 09:55:32 +0800</pubDate>
+      
+      <guid>https://eirms.com/tags/wordpress/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>windows</title>
+      <link>https://eirms.com/tags/windows/</link>
+      <pubDate>Sat, 09 Jan 2021 09:44:42 +0800</pubDate>
+      
+      <guid>https://eirms.com/tags/windows/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>电脑</title>
+      <link>https://eirms.com/tags/%E7%94%B5%E8%84%91/</link>
+      <pubDate>Sat, 09 Jan 2021 09:44:42 +0800</pubDate>
+      
+      <guid>https://eirms.com/tags/%E7%94%B5%E8%84%91/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

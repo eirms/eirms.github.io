@@ -617,5 +617,190 @@
 ]]></content:encoded>
     </item>
     
+    <item>
+      <title>关于我的博客</title>
+      <link>https://eirms.com/posts/about-my-blog/</link>
+      <pubDate>Sat, 06 Feb 2021 09:55:32 +0800</pubDate>
+      
+      <guid>https://eirms.com/posts/about-my-blog/</guid>
+      <description>之前在网上看到过这样一句话：当你不知道该写什么的时候就写如何搭建博客。不过，我这篇不是要讲如何搭建，而是介绍下我博客的相关信息。因为经常会有</description>
+      <content:encoded><![CDATA[<p>之前在网上看到过这样一句话：<strong>当你不知道该写什么的时候就写如何搭建博客</strong>。不过，我这篇不是要讲如何搭建，而是介绍下我博客的相关信息。因为经常会有网友给我留言，问我博客是什么程序、什么主题，用的什么服务器之类的问题，今天就整理下。</p>
+<table>
+<thead>
+<tr>
+<th>博客程序</th>
+<th><a href="https://cn.wordpress.org/">WordPress</a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>博客主题</td>
+<td><a href="https://cn.wordpress.org/themes/twentytwelve/">Twenty Twelve</a></td>
+</tr>
+<tr>
+<td>域名</td>
+<td><a href="https://dnspod.cloud.tencent.com/">腾讯云</a></td>
+</tr>
+<tr>
+<td>服务器</td>
+<td><a href="https://cloud.tencent.com/act/campus">腾讯云</a>（学生机）</td>
+</tr>
+<tr>
+<td>域名解析</td>
+<td><a href="https://www.dnspod.cn/">DNSPod</a></td>
+</tr>
+<tr>
+<td>服务器面板</td>
+<td><a href="https://www.bt.cn/">宝塔面板</a></td>
+</tr>
+</tbody>
+</table>
+<p>博客基本的信息就是表格里所示。现在详细说一说。</p>
+<h2 id="服务器">服务器</h2>
+<p>其实如果对个人博客要求不高的话，简单的虚拟主机就可以满足。2018年我刚开始建博客的时候用的就是虚拟主机，从**<a href="http://husay.cc/lxzj.html">老薛主机</a><strong>，到</strong>网硕互联**，最后才到<strong>腾讯云</strong>的学生机。服务器可以折腾很多东西，不喜欢折腾只想简简单单写博客的，虚拟主机是最好的选择。</p>
+<p>对于服务器，如果你是25岁以下的用户，你可以享受腾讯云和阿里云的学生优惠，对付一个博客足够了；如果不是，腾讯云和阿里云也有实惠套餐供你选择。国内服务器推荐阿里云和腾讯云，国外服务器没用过，不做推荐。</p>
+<p>对于虚拟主机，<strong><a href="https://my.liluohost.com/aff.php?aff=21">篱落主机</a></strong>、<strong>老薛主机</strong>、<strong><a href="https://my.hengtian.cc/aff.php?aff=3731">衡天主机</a></strong>、<strong><a href="http://husay.cc/hczj.html">恒创主机</a></strong>，价格实惠，配置较好，可以尝试。</p>
+<h2 id="域名">域名</h2>
+<p>域名不建议选择非主流域名，我博客第一个域名是 men 后缀：longest.men，取“最长的男人”之意，现在用的 com 域名都是在网硕互联买虚拟主机的时候赠送注册的。</p>
+<p>是否备案取决自己，各有各的好处。已备案的域名可以享受国内服务器/虚拟主机和CDN服务，速度较快，但是多多少少会受到约束；未备案的域名只能使用大陆以外地区的服务器/虚拟主机，约束少，但速度会受到影响。</p>
+<p>com/cn/net可以考虑首选，me做个人博客域名很适合。域名注册平台，国内可以选择<a href="http://www.xinnet.com/">新网</a>、<a href="https://wanwang.aliyun.com/">万网</a>(阿里云)、<a href="https://www.west.cn/">西部数码</a>、<a href="https://www.quyu.net/">趣域</a>……国外平台可以选择 <a href="https://www.namecheap.com/">Namecheap</a>、<a href="https://sg.godaddy.com/zh">GoDaddy</a>(狗爹)、<a href="https://www.namesilo.com/">NameSilo</a>、<a href="https://www.dynadot.com/">Dynadot</a>、<a href="https://porkbun.com/">Porkbun</a>……另外推荐域名比价平台：<a href="https://www.nazhumi.com/">哪煮米</a>、<a href="https://namebeta.com/">NameBeta</a>。</p>
+<h2 id="程序">程序</h2>
+<p>前前后后用过 <a href="https://cn.wordpress.org/"><strong>WordPress</strong></a>、<a href="http://typecho.org/"><strong>Typecho</strong></a>、<a href="https://www.zblogcn.com/"><strong>zblog</strong></a>、<a href="https://www.emlog.net/"><strong>emlog</strong></a>，最后觉得 WordPress 更上手，生态强大，可操作性强，容易折腾，功能也比较完善。尽管有人觉得它过于臃肿，加载较慢，但看看我博客，慢吗？当然方案也不止这一种。</p>
+<p>静态博客也是一个不错的选择，例如 <a href="https://hexo.io/zh-cn/"><strong>Hexo</strong></a>、<a href="https://gridea.dev/"><strong>Gridea</strong></a>、<a href="http://jekyllcn.com/"><strong>Jekyll</strong></a>、<a href="https://www.gohugo.org/"><strong>Hugo</strong></a>……这些皆可搭配 <strong><a href="https://github.com/">Github</a></strong>、<strong><a href="https://coding.net/">Coding</a></strong>，再配上免费的二级域名，无成本即可搭建一个博客，我不太了解，网上教程很多，自行搜索即可。</p>
+<h2 id="插件">插件</h2>
+<p>在插件方面，我一向就是能用代码尽量不用插件。</p>
+<ul>
+<li><strong><a href="https://cn.wordpress.org/plugins/commonwp/">commonWP</a></strong></li>
+<li><strong><a href="https://wordpress.org/plugins/comet-cache/">Comet Cache</a></strong></li>
+<li><strong>twentytwelve 主题功能增强</strong></li>
+<li><strong><a href="https://www.nicetheme.cn/nicetheme-plugins-store.html">积木箱子</a></strong></li>
+<li><strong><a href="http://husay.cc/2866.html">豆瓣读书观影记录</a></strong></li>
+</ul>
+<p>第一个用来缓存博客后台相关文件，第二个类似 WP Super Cache ，第三个插件是我基于 <a href="https://cyhour.com/"><strong>沙唐桔</strong></a> 制作的主题增强插件，在他的代码基础上加了别的功能。并且采用 <a href="https://zww.me/wordpress-archive-page-template-wp-primary-function-2014-edition.z-turn"><strong>ZWWoOoOo</strong></a> 的文章归档教程制作了 <strong><a href="http://husay.cc/archives.html">归档页面</a></strong> 。用 <strong><a href="http://husay.cc/2866.html">豆瓣读书观影记录</a></strong> 制作了两个页面：<a href="http://husay.cc/book.html"><strong>阅读记录</strong></a>、<a href="http://husay.cc/movie.html"><strong>观影记录</strong></a>。主题css方面稍微修改了，具体修改在哪，自行查看源代码并对比原版主题即可。</p>
+<h2 id="主题">主题</h2>
+<p>个人博客的话，官方的主题基本能满足需求。例如我现在用的 Twenty Twelve，过去使用的 Twenty Fifteen，各有特色。诸如此类的免费主题还有很多，各大主题聚合站基本都有；付费主题作者推荐：<a href="https://www.nicetheme.cn/"><strong>nicetheme</strong></a>、<a href="https://www.xintheme.com/"><strong>XinTheme</strong></a>，主题质量和售后服务蛮不错。</p>
+<h2 id="优化">优化</h2>
+<p>建议的优化方案是配置 CDN，开启动静分离，但我没这么做，太复杂了，我折腾容易出错。于是我就在服务器方面进行了优化。使用 Memcached 缓存数据库加速 WordPress 网站；使用 Comet Cache 静态缓存插件。在主题方面，简化代码、屏蔽没用的功能，这些用上面提到的 <strong>twentytwelve 主题功能增强</strong> 插件就可以做到。CDN 推荐<a href="https://www.qiniu.com/"><strong>七牛云</strong></a>、<a href="https://www.upyun.com/"><strong>又拍云</strong></a>、<a href="https://cloud.tencent.com/product/cdn"><strong>腾讯云</strong></a>、<a href="https://www.aliyun.com/product/cdn"><strong>阿里云</strong></a>，如果是国外服务器，则推荐 <a href="https://www.cloudflare.com/"><strong>Cloudflare</strong></a>。</p>
+<h2 id="rss阅读">RSS阅读</h2>
+<p>这方面主要有两个方案：自己建的和第三方平台。</p>
+<ul>
+<li>自建 RSS 主要推荐：<a href="https://rss.anyant.com/"><strong>蚁阅</strong></a>、Tiny Tiny Rss</li>
+<li>第三方平台推荐：Inoreader、Feedly、RSS 追踪 可以参考我以前的文章：</li>
+<li><a href="http://husay.cc/3363.html">RSS追踪：Windows平台上一款好用的RSS阅读器</a></li>
+<li><a href="http://husay.cc/3249.html">我还是更喜欢这样的RSS阅读</a></li>
+</ul>
+<p>上述所列的仅供参考，具体使用还得看个人。 我的博客马上三周年，写了近三年，用了 WordPress 近三年，多多少少也有点经验，今天写出来权当分享经验，如有错误，欢迎指正。 如果对博客建设方面还有问题，欢迎<a href="http://husay.cc/contact.html">联系</a>我。</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>简简单单，写写博客</title>
+      <link>https://eirms.com/posts/just-write-blog-simply/</link>
+      <pubDate>Fri, 22 Jan 2021 09:52:41 +0800</pubDate>
+      
+      <guid>https://eirms.com/posts/just-write-blog-simply/</guid>
+      <description>怎么又换成twenty twelve主题了？我也想问自己为什么，可能我就适合这样的吧，字多图少，不会配图，瞎放也丑，干脆以后写东西能不放图就不</description>
+      <content:encoded><![CDATA[<p>怎么又换成twenty twelve主题了？我也想问自己为什么，可能我就适合这样的吧，字多图少，不会配图，瞎放也丑，干脆以后写东西能不放图就不放图，正好也减轻我CDN流量压力。前两天博客被人CC了一番，百度云加速免费版直接超量，要想继续用，只能用付费版，不当他的韭菜了，当腾讯云的韭菜吧。在<a href="https://www.youngfree.cn/">杨景文</a>博主的帮助下，配置了腾讯云CDN，原本一起套了又拍云，但是有问题，就放弃了。</p>
+<p>正如<a href="https://laozhang.org/">张波博主</a>所说：停止一些无意义的折腾。简简单单的写个博客，就是现在最好的追求。<a href="http://www.guanhaodong.com/">官浩东</a>博主现在差不多也和我一样的心态，折腾来折腾去，WordPress和Typecho都用过了，最后还是和我一样用上了twenty twelve。说起来，他开始写博客多多少少还和我有点关系，他看到我在料Sam的评论，“点进去一看，嚯，高中生博主，好厉害，我也要弄”，于是他就注册搭建了。</p>
+<p>看到群里<a href="https://imzm.im/">陈仓颉</a>博主在折腾博客的邮件发信问题，折腾得头都大了，有点像当初的我，左搞搞右搞搞，还是没弄成，当时索性不搞这个功能了，到后来换到腾讯云服务器才折腾好。基本的弄好我觉得就足够了，写博客强调的是写，能写就行，主题也是次要，能入眼就行，顶多稍微改改细节。</p>
+<p>其实换成twenty twelve还有另一个原因，沙唐桔搞了一个主题增强<a href="https://cyhour.com/1626/">插件</a>，一下子就解决了蛮多官方主题的一些问题，让我立即就想上手了，于是真的上手了。</p>
+<p>在整理的时候，顺便看了看2018年写的文章，那一年总共有116篇，仔细看的话，有的确实不能算是文章，水的很。现在，也水的很，随性写一写。</p>
+<p>专注写作，专注阅读，专注思考。主题什么的，别想打扰我。</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>如何高效使用你的电脑？</title>
+      <link>https://eirms.com/posts/how-to-use-your-windows-computer/</link>
+      <pubDate>Sat, 09 Jan 2021 09:44:42 +0800</pubDate>
+      
+      <guid>https://eirms.com/posts/how-to-use-your-windows-computer/</guid>
+      <description>简洁是高效工作的前提，如何将我们的电脑桌面发挥它的最大作用，下面以Windows 10为例介绍。 看似平平无奇，这就是今天介绍的。 01.Win1</description>
+      <content:encoded><![CDATA[<p>简洁是高效工作的前提，如何将我们的电脑桌面发挥它的最大作用，下面以Windows 10为例介绍。</p>
+<p>
+  <img loading="lazy" src="https://static.husay.cc/2022/05/2022051301421493.png" alt=""  /></p>
+<p>看似平平无奇，这就是今天介绍的。</p>
+<h2 id="01win10自带的磁贴功能收纳快捷方式">01.Win10自带的磁贴功能收纳快捷方式</h2>
+<p>使用之前需要先设置“开始”页面。<strong>打开设置→个性化→开始→使用全屏开始屏幕</strong>，勾选**“使用全屏开始屏幕”和“在开始菜单上显示更多磁贴”**。右键单击需要添加到此磁贴的应用，选择“固定到开始屏幕”，即可添加应用至磁贴中。如下图所示：</p>
+<p>
+  <img loading="lazy" src="https://rmt.dogedoge.com/fetch/lucy/storage/Q20210109092146.png" alt=""  /></p>
+<p>
+  <img loading="lazy" src="https://rmt.dogedoge.com/fetch/lucy/storage/Q20210109092509.png" alt=""  /></p>
+<p>将经常使用的软件添加至磁贴，桌面可以做到几乎没有一项图标，可以不像我那样，大可只新建一个文件夹，用来存放临时文档。</p>
+<h2 id="02win10多窗口分屏让操作更简单">02.Win10多窗口分屏——让操作更简单</h2>
+<p>在工作的时候经常需要来回切换多个窗口，而来回切换即费时间又容易弄混，在Win7和Win10系统都存在这个分屏功能，支持二/三/四屏分屏。分屏之后的各窗口互不影响，独立工作。使用方法：<strong>拖住窗口移动至桌面上下或左右边缘，即可实现分屏操作</strong>。</p>
+<p>
+  <img loading="lazy" src="https://rmt.dogedoge.com/fetch/lucy/storage/Q20210109094732.png" alt=""  /></p>
+<p>
+  <img loading="lazy" src="https://rmt.dogedoge.com/fetch/lucy/storage/Q20210109094045.png" alt=""  /></p>
+<p>如上图所示，拖动之后，一边窗口会自动缩小，另一边由你选择其他窗口进行补充。除了通过鼠标拖动窗口来实现分屏，还可以通过「<strong>Win键+←/→</strong>」的方式来实现：在当前的页面按下「<strong>Win键+→</strong>」，窗口就会自动向右缩小为原来的一半，同时左边空白的部分可以选择其他窗口进行补充。</p>
+<p>如果已经处于二分屏状态，则可通过「<strong>Win键+↑/↓</strong>」来<strong>开启三/四分屏</strong>。使用方法同样简单，选中二分屏中一个页面，按下「<strong>Win键+↑/↓</strong>」即可实现。</p>
+<p>
+  <img loading="lazy" src="https://rmt.dogedoge.com/fetch/lucy/storage/Q20210109095928.png" alt=""  /></p>
+<h2 id="03win10任务视图创建多个桌面">03.Win10任务视图——创建多个桌面</h2>
+<p><strong>任务视图</strong>是一个在Windows 10中首次引入的任务切换器和虚拟桌面系统。任务视图允许用户快速定位到已打开的窗口，快速隐藏所有窗口并显示另一个桌面，以及管理多个监视器或虚拟桌面上的窗口。单击任务栏上的“任务视图”按钮或从屏幕左侧滑动将展示所有窗口，然后允许用户切换这些窗口，或者切换多个工作区。（来自百度百科）</p>
+<p>
+  <img loading="lazy" src="https://rmt.dogedoge.com/fetch/lucy/storage/Q20210109101734.png" alt=""  /></p>
+<p>一台电脑当作多台电脑使用，相当于有了一台“虚拟电脑”。将电脑桌面按用途分为工作桌面、写作桌面、游戏桌面、摸鱼桌面。按快捷键「<strong>Win键+Tab</strong>」即可在最顶部看到桌面选项，点击「<strong>+号</strong>」即可创建新桌面。</p>
+<p>Tips：工作（摸鱼）专用快捷键</p>
+<blockquote>
+<p><strong>Win+Ctrl+D</strong>：快速创建新的桌面并切换过去
+<strong>Win+Ctrl+F4</strong>：删除当前使用的虚拟桌面
+<strong>Win+Ctrl+←/→</strong>：快速切换到相邻的左右桌面</p>
+</blockquote>
+<p>熟悉掌握这些快捷键，可以大大提高工作效率和摸鱼速度。</p>
+<h2 id="04win10中隐藏的剪切板winv">04.Win10中隐藏的剪切板——Win+V</h2>
+<p>貌似在以前的系统里并没有剪贴板功能，而在Windows10中内置了该剪贴板功能，在剪贴板里你可以看到最近复制粘贴的文字和图片。同时你也可以选择关机时是否清理剪贴板里的内容。快捷键：「<strong>Win+V</strong>」</p>
+<p>
+  <img loading="lazy" src="https://rmt.dogedoge.com/fetch/lucy/storage/jtb.gif" alt=""  /></p>
+<h2 id="05win10常用快捷键">05.Win10常用快捷键</h2>
+<ul>
+<li>「<strong>Win+i</strong>」打开Windows的配置窗口</li>
+<li>「<strong>Win+A</strong>」打开Windows的通知中心</li>
+<li>「<strong>Win+D</strong>」一键显示桌面，将所有的窗口最小化</li>
+<li>「<strong>Win+E</strong>」快速打开资源管理器——“我的电脑”</li>
+<li>「<strong>Win+L</strong>」一键锁定电脑屏幕</li>
+<li>「<strong>Win+Q/S</strong>」快速打开Cortans搜索框</li>
+<li>「<strong>Win+数字键</strong>」一次打开固定在任务栏的软件</li>
+<li>「<strong>Win+“+”或“-”</strong>」使用系统放大镜功能</li>
+<li>「<strong>Ctrl+Alt+Del</strong>」快速打开任务管理器</li>
+<li>「<strong>Ctrl+Shift</strong>」快速切换输入法</li>
+<li>「<strong>Ctrl+空格</strong>」快速切换中英文输入</li>
+<li>「<strong>Alt+Tab</strong>」快速切换到不同的窗口视图</li>
+<li>「<strong>Ctrl+Tab</strong>」快速切换浏览器窗口</li>
+<li>「<strong>Ctrl+Shift+T</strong>」一键打开上一个被关闭的网页</li>
+<li>「<strong>Win+句号键</strong>」打开系统自带表情符号</li>
+<li>「<strong>Ctrl+Shift+B</strong>」调出Win10的特殊符号面板（比上一条丰富）</li>
+<li>「<strong>Ctrl+Shift+F</strong>」文字简繁体切换</li>
+</ul>
+<h2 id="06win10输入法被忽视的强大功能">06.Win10输入法——被忽视的强大功能</h2>
+<p>看起来平平无奇，但功能强大到可以不用下载其他输入法。</p>
+<p><strong>自带输入法的U/V输入模式</strong></p>
+<p>
+  <img loading="lazy" src="https://rmt.dogedoge.com/fetch/lucy/storage/Q20210109104801.png" alt=""  /></p>
+<p>46个二百五等于多少？</p>
+<p>
+  <img loading="lazy" src="https://rmt.dogedoge.com/fetch/lucy/storage/Q20210109104715.png" alt=""  /></p>
+<p>各种格式的数字</p>
+<p>
+  <img loading="lazy" src="https://rmt.dogedoge.com/fetch/lucy/storage/Q20210109104838.png" alt=""  /></p>
+<p>各种格式的时间</p>
+<p>
+  <img loading="lazy" src="https://rmt.dogedoge.com/fetch/lucy/storage/Q20210109104635.png" alt=""  /></p>
+<p>不会读的生僻字</p>
+<p><strong>自定义设置：导入词库和自学习、编辑自定义短语、人名输入、上下文智能短语抽取</strong></p>
+<p>
+  <img loading="lazy" src="https://rmt.dogedoge.com/fetch/lucy/storage/wz.gif" alt=""  /></p>
+<p>「<strong>繁体/简体</strong>」快速切换，快捷键为「<strong>Ctrl+Shift+F</strong>」</p>
+<p>
+  <img loading="lazy" src="https://rmt.dogedoge.com/fetch/lucy/storage/shuru.gif" alt=""  /></p>
+<h2 id="07win10抖动窗口最小化其他窗口">07.Win10抖动窗口最小化其他窗口</h2>
+<p>当我们打开很多窗口的时候，想快速将其他窗口最小化，只需要拖动当前窗口快速「<strong>抖动</strong>」两下即可实现。</p>
+<p>
+  <img loading="lazy" src="https://rmt.dogedoge.com/fetch/lucy/storage/win10.gif" alt=""  /></p>
+<p>感谢阅读，这是2021年的第二篇文章。下一篇带来Win10实用软件推荐。</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>
