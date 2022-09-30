@@ -1,562 +1,272 @@
 <!DOCTYPE html>
-<html lang="en" dir="auto">
-
-<head>
-	<meta name="generator" content="Hugo 0.101.0" /><meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="robots" content="index, follow">
-<title>Eirms</title>
-<meta name="keywords" content="write, blog, life, book">
-<meta name="description" content="HuHeXian, and his blog about his life, thoughts, ideas.">
-<meta name="author" content="HuHeXian">
-<link rel="canonical" href="https://eirms.com/">
-
-
-<link crossorigin="anonymous" href="/assets/css/stylesheet.min.1953d0aedd677e6a027d5ea145d2e71a2b2101649fba37784de1035cf38994a3.css" integrity="sha256-GVPQrt1nfmoCfV6hRdLnGishAWSfujd4TeEDXPOJlKM=" rel="preload stylesheet" as="style">
-<link rel="icon" href="https://eirms.com/favicon.ico">
-<link rel="apple-touch-icon" href="https://eirms.com/apple-touch-icon.png">
-<link rel="alternate" type="application/rss+xml" href="https://eirms.com/index.xml">
-<link rel="alternate" type="application/json" href="https://eirms.com/index.json">
-<meta name="twitter:image" content="https://eirms.com/cover.png" />
-    <meta name="twitter:card" property="twitter:card" content="summary" />
-<meta name="twitter:title" content="Eirms" />
-<meta name="twitter:description" content="HuHeXian, and his blog about his life, thoughts, ideas." />
-<meta name="twitter:site" content="@huhexian" />
-<meta name="twitter:creator" content="@huhexian" />
-<meta property="og:title" content="Eirms" />
-<meta property="og:description" content="HuHeXian, and his blog about his life, thoughts, ideas." />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://eirms.com/" />
-    <meta property="og:image" content="https://eirms.com/cover.png"/>
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Eirms",
-  "url": "https://eirms.com/",
-  "description": "HuHeXian, and his blog about his life, thoughts, ideas.",
-  "thumbnailUrl": "https://eirms.com/favicon.ico",
-  "sameAs": [
-      "https://github.com/huhexian", "https://twitter.com/huhexian", "https://t.me/huhexian", "index.xml", "mailto:huhexian0206@gmail.com"
-  ]
-}
-</script><style>
-  #icons {
-    display: flex;
-    flex-wrap: wrap;
-    margin-top: 2em;
-  }
-  #icons .item {
-    width: 80px;
-    height: 50px;
-    margin: 10px;
-  }
-  #icons .item .name {
-    font-size: 12px;
-    user-select: all;
-    text-align: center;
-  }
-  #icons .item .icon {
-    display: flex;
-    justify-content: center;
-  }
-  #icons .item svg {
-    width: 30px;
-    height: 30px;
-  }
-</style>
-
-
-<noscript>
-    <style>
-        #theme-toggle,
-        .top-link {
-            display: none;
-        }
-
-    </style>
-    <style>
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --theme: rgb(29, 30, 32);
-                --entry: rgb(46, 46, 51);
-                --primary: rgb(218, 218, 219);
-                --secondary: rgb(155, 156, 157);
-                --tertiary-bg: rgb(65, 66, 68);
-                --content: rgb(196, 196, 197);
-                --code-bg: rgb(55, 56, 62);
-                --border: rgb(51, 51, 51);
-            }
-
-            .list {
-                background: var(--theme);
-            }
-
-            .list:not(.dark)::-webkit-scrollbar-track {
-                background: 0 0;
-            }
-
-            .list:not(.dark)::-webkit-scrollbar-thumb {
-                border-color: var(--theme);
-            }
-        }
-
-    </style>
-</noscript>
-
-</head>
-
-<body class="list" id="top"><script data-no-instant>
-function switchTheme(theme) {
-  switch (theme) {
-    case 'light':
-      document.body.classList.remove('dark');
-      break;
-    case 'dark':
-      document.body.classList.add('dark');
-      break;
+<html lang="en-us">
+  <head>
+	<meta name="generator" content="Hugo 0.101.0" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    default:
-      if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.body.classList.add('dark');
-      }
-  }
-}
+    <title>Eirms</title>
+    <meta property="og:title" content="Eirms">
+    <meta property="og:type" content="website">
+    
+    <meta name="twitter:card" content="summary">
 
-function isDarkTheme() {
-  return document.body.className.includes("dark");
-}
+    
+      
+    
 
-function getPrefTheme() {
-  return localStorage.getItem("pref-theme");
-}
+    
+    <meta property="description" content="A personal blog of HuHeXian. About his life and thoughts.">
+    
 
-function setPrefTheme(theme) {
-  switchTheme(theme)
-  localStorage.setItem("pref-theme", theme);
-}
+    
+    
+    <meta name="twitter:image" content="https://rmt.ladydaily.com/fetch/lucy/storage/1150976884.webp?w=3840&amp;h=2100&amp;pos=center">
+    
+    
 
-const toggleThemeCallbacks = {}
-toggleThemeCallbacks['main'] = (isDark) => {
+    
+
+    
+    <link href="/index.xml" rel="alternate" type="application/rss+xml" title="Eirms" />
+    
+    
+
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    <link rel="stylesheet" href="/css/custom.css" />
+
+  </head>
+
   
-  if (isDark) {
-    setPrefTheme('light');
-  } else {
-    setPrefTheme('dark');
-  }
-}
+  <body class="home">
+    <header class="masthead">
+      <h1><a href="/">Eirms</a></h1>
 
+<p class="tagline">A personal blog of HuHeXian. About his life and thoughts.</p>
 
-
-
-window.addEventListener('toggle-theme', function() {
+      <nav class="menu">
+  <input id="menu-check" type="checkbox" hidden/>
+  <label id="menu-label" for="menu-check" class="unselectable" hidden>
+    <span class="icon close-icon">✕</span>
+    <span class="icon open-icon">☰</span>
+    <span class="text">Menu</span>
+  </label>
+  <ul>
   
-  const isDark = isDarkTheme()
-  for (const key in toggleThemeCallbacks) {
-    toggleThemeCallbacks[key](isDark)
-  }
-});
-
-
-function toggleThemeListener() {
   
-  window.dispatchEvent(new CustomEvent('toggle-theme'));
-}
-
-</script>
-<script>
+  <li class="active"><a href="/">Home</a></li>
   
-  (function() {
-    const defaultTheme = 'auto';
-    const prefTheme = getPrefTheme();
-    const theme = prefTheme ? prefTheme : defaultTheme;
+  <li><a href="/about/">About</a></li>
+  
+  <li><a href="/tags/">Tags</a></li>
+  
+  <li><a href="/index.xml">Subscribe</a></li>
+  
+  
+  </ul>
+</nav>
 
-    switchTheme(theme);
-  })();
-</script>
+    </header>
 
-<header class="header">
-    <nav class="nav">
-        <div class="logo">
-            <a href="https://eirms.com/" accesskey="h" title="Eirms (Alt + H)">
-                <img src="https://eirms.com/favicon.ico" alt="logo" aria-label="logo"
-                    height="30">Eirms</a>
-            <span class="logo-switches">
-                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
-                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
-                    </svg>
-                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <circle cx="12" cy="12" r="5"></circle>
-                        <line x1="12" y1="1" x2="12" y2="3"></line>
-                        <line x1="12" y1="21" x2="12" y2="23"></line>
-                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
-                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
-                        <line x1="1" y1="12" x2="3" y2="12"></line>
-                        <line x1="21" y1="12" x2="23" y2="12"></line>
-                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
-                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
-                    </svg>
-                </button>
-            </span>
-        </div>
-        <ul id="menu">
-            <li>
-                <a href="https://eirms.com/tags/" title="Tags"
-                >Tags
-                </a>
-            </li>
-            <li>
-                <a href="https://eirms.com/archives/" title="Archive"
-                >Archive
-                </a>
-            </li>
-            <li>
-                <a href="https://eirms.com/search/" title="Search (Alt &#43; /)"data-no-instant accesskey=/
-                >Search
-                </a>
-            </li>
-            <li>
-                <a href="https://eirms.com/about/" title="About"
-                >About
-                </a>
-            </li>
-        </ul>
-    </nav>
-</header>
-<main class="main"> 
+    <article class="main">
+      <header class="title">
+      
+
+      </header>
+
+
+<p><img src="https://rmt.ladydaily.com/fetch/lucy/storage/1150976884.webp?w=3840&amp;h=2100&amp;pos=center" alt=""></p>
+<blockquote>
+生活不能等待别人来安排,要自已去争取和奋斗。而不论其结果是喜是悲。但可以慰藉的是,你总不枉在这世界上活了一场。有了这样的认识,你就会珍重生活,而不会玩世不恭。同时,也会给人自身注入一种强大的内在力量。 
+<p>——路遥《平凡的世界》</p>
+</blockquote>
+<p>你好，这里是胡和先的个人博客，基于 Hugo 程序和 Ivy 主题构建，存档于 GitHub 平台。也可以在我的<a href="https://huhexian.cn">个人主页</a>了解我的其他信息。目前是人力资源管理专业大三在读学生。</p>
+<p>喜欢一句话：<strong>君子可内敛不可懦弱，面不公可起而论之</strong>。</p>
+<p>以下是我的博客文章，欢迎在下方留言，或给我发送<a href="mailto:huhexian0206@gmail.com">电子邮件</a>。</p>
+<hr>
 
 
 
 
 
-<article class="first-entry home-info">
-  <header class="entry-header">
-    <h1>Plain living and High thinking.</h1>
-  </header>
-  <section class="entry-content"><p>Welcome to Eirms that is based on Hugo.</p>
-<p>I am HuHexian, a 20-year-old university student majoring in human resource management.</p>
-<p>Here you can see my thinking, life and ideas. Welcome to send me an email to share your ideas.</p>
-</section>
-  <footer class="entry-footer"><div class="social-icons">
-    <a href="https://github.com/huhexian" target="_blank" rel="noopener noreferrer me" title="Github-Simple">
-        <svg role="img" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><title>GitHub</title><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg>
+<ul>
+  
+  <li>
+    <span class="date">2022/07/02</span>
+    <a href="/posts/summary-of-reading-in-the-first-half-of-2022/">岂有书乏丨2022年上半年读书总结</a>
+  </li>
+  
+  <li>
+    <span class="date">2022/06/25</span>
+    <a href="/posts/only-by-abandoning-everything-can-we-be-free/">只有抛弃一切，才能获得自由</a>
+  </li>
+  
+  <li>
+    <span class="date">2022/06/11</span>
+    <a href="/posts/tang-shan-0610-2/">昨天未说完的话</a>
+  </li>
+  
+  <li>
+    <span class="date">2022/06/10</span>
+    <a href="/posts/tang-shan-0610/">不做冷眼旁观之人，做勇敢发声之人</a>
+  </li>
+  
+  <li>
+    <span class="date">2022/06/02</span>
+    <a href="/posts/kindle/">写在kindle退出中国市场之后：最爱还是纸质书</a>
+  </li>
+  
+  <li>
+    <span class="date">2022/05/13</span>
+    <a href="/posts/writing/">写作是一个典型的功夫在诗外的事情</a>
+  </li>
+  
+  <li>
+    <span class="date">2022/05/08</span>
+    <a href="/posts/notes-software/">从自身需求出发，选择自己合适的笔记软件</a>
+  </li>
+  
+  <li>
+    <span class="date">2022/04/22</span>
+    <a href="/posts/english-learning/">我也觉得挺丢脸的</a>
+  </li>
+  
+  <li>
+    <span class="date">2022/04/14</span>
+    <a href="/posts/when-i-talk-about-running-what-am-i-talking-about/">当我谈跑步时，我在谈些什么</a>
+  </li>
+  
+  <li>
+    <span class="date">2022/04/05</span>
+    <a href="/posts/wechat-public-article-editing-method/">分享我的微信公众号文章编辑方法</a>
+  </li>
+  
+  <li>
+    <span class="date">2022/04/04</span>
+    <a href="/posts/something-useless/">正事没多少，琐事一箩筐</a>
+  </li>
+  
+  <li>
+    <span class="date">2022/03/19</span>
+    <a href="/posts/gossip/">一些闲言碎语</a>
+  </li>
+  
+  <li>
+    <span class="date">2022/03/08</span>
+    <a href="/posts/20-year-old/">生日快乐</a>
+  </li>
+  
+  <li>
+    <span class="date">2021/12/21</span>
+    <a href="/posts/my-thoughts-and-ideas-on-reading/">我对读书的一点点思考与想法</a>
+  </li>
+  
+  <li>
+    <span class="date">2021/12/06</span>
+    <a href="/posts/consumption-and-life/">消费与生活</a>
+  </li>
+  
+  <li>
+    <span class="date">2021/10/30</span>
+    <a href="/posts/night-and-sobriety/">深夜清醒</a>
+  </li>
+  
+  <li>
+    <span class="date">2021/10/23</span>
+    <a href="/posts/come-back/">我回来了</a>
+  </li>
+  
+  <li>
+    <span class="date">2021/09/16</span>
+    <a href="/posts/all-kinds-of-thoughts-from-eating-pomegranate/">从吃石榴想到的种种</a>
+  </li>
+  
+  <li>
+    <span class="date">2021/08/28</span>
+    <a href="/posts/teacher-and-student/">当我从老师变回学生</a>
+  </li>
+  
+  <li>
+    <span class="date">2021/08/01</span>
+    <a href="/posts/hair-cutting/">关于理发这件事</a>
+  </li>
+  
+  <li>
+    <span class="date">2021/07/03</span>
+    <a href="/posts/work/">第一次体会有工作的充实感</a>
+  </li>
+  
+  <li>
+    <span class="date">2021/06/21</span>
+    <a href="/posts/staying-focused-and-immersed-in-writing/">保持专注与沉浸式写作</a>
+  </li>
+  
+  <li>
+    <span class="date">2021/06/15</span>
+    <a href="/posts/diary/">选择一种方式，然后坚持写下去</a>
+  </li>
+  
+  <li>
+    <span class="date">2021/02/06</span>
+    <a href="/posts/about-my-blog/">关于我的博客</a>
+  </li>
+  
+  <li>
+    <span class="date">2021/01/22</span>
+    <a href="/posts/just-write-blog-simply/">简简单单，写写博客</a>
+  </li>
+  
+  <li>
+    <span class="date">2021/01/09</span>
+    <a href="/posts/how-to-use-your-windows-computer/">如何高效使用你的电脑？</a>
+  </li>
+  
+</ul>
 
-    </a>
-    <a href="https://twitter.com/huhexian" target="_blank" rel="noopener noreferrer me" title="Twitter-Simple">
-        <svg role="img" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><title>Twitter</title><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg>
-
-    </a>
-    <a href="https://t.me/huhexian" target="_blank" rel="noopener noreferrer me" title="Telegram-Simple">
-        <svg role="img" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><title>Telegram</title><path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/></svg>
-
-    </a>
-    <a href="index.xml" target="_blank" rel="noopener noreferrer me" title="Rss-Simple">
-        <svg role="img" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><title>RSS</title><path d="M19.199 24C19.199 13.467 10.533 4.8 0 4.8V0c13.165 0 24 10.835 24 24h-4.801zM3.291 17.415c1.814 0 3.293 1.479 3.293 3.295 0 1.813-1.485 3.29-3.301 3.29C1.47 24 0 22.526 0 20.71s1.475-3.294 3.291-3.295zM15.909 24h-4.665c0-6.169-5.075-11.245-11.244-11.245V8.09c8.727 0 15.909 7.184 15.909 15.91z"/></svg>
-
-    </a>
-    <a href="mailto:huhexian0206@gmail.com" target="_blank" rel="noopener noreferrer me" title="Gmail">
-        <svg role="img" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><title>Gmail</title><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/></svg>
-
-    </a>
-</div>
-</footer>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2>岂有书乏丨2022年上半年读书总结
-    </h2>
-  </header>
-  <section class="entry-content">
-    
-      <p>2022 年已经过去一半，本没有写上半年读书总结的想法，但在我加入的一个读书微信群里，有群友主动发起一个年中读书总结分享会，挑选出自己上半年读过的 Top3...</p>
-    
-  </section>
-  <footer class="entry-footer"><span class="meta-item">
-  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar" style="user-select: text;"><rect x="3" y="4" width="18" height="18" rx="2" ry="2" style="user-select: text;"></rect><line x1="16" y1="2" x2="16" y2="6" style="user-select: text;"></line><line x1="8" y1="2" x2="8" y2="6" style="user-select: text;"></line><line x1="3" y1="10" x2="21" y2="10" style="user-select: text;"></line></svg>
-  <span>2022-07-02</span></span><span class="meta-item">
-  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon" style="user-select: text;"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z" style="user-select: text;"></path><line x1="7" y1="7" x2="7" y2="7" style="user-select: text;"></line></svg>
-  <span class="post-tags"><a href="https://eirms.com/tags/%E8%AF%BB%E4%B9%A6/">读书</a></span></span><span class="meta-item">
-  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text" style="user-select: text;"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" style="user-select: text;"></path><polyline points="14 2 14 8 20 8" style="user-select: text;"></polyline><line x1="16" y1="13" x2="8" y2="13" style="user-select: text;"></line><line x1="16" y1="17" x2="8" y2="17" style="user-select: text;"></line><polyline points="10 9 9 9 8 9" style="user-select: text;"></polyline></svg>
-  <span>2041 words</span></span><span class="meta-item">
-  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><circle cx="12" cy="12" r="9"></circle><polyline points="12 7 12 12 15 15"></polyline></svg>
-  <span>5 min</span></span>
-</footer>
-  <a class="entry-link" aria-label="post link to 岂有书乏丨2022年上半年读书总结" href="https://eirms.com/posts/summary-of-reading-in-the-first-half-of-2022/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2>只有抛弃一切，才能获得自由
-    </h2>
-  </header>
-  <section class="entry-content">
-    
-      <p>前两天在看电影《搏击俱乐部》，看到一句话：只有抛弃一切，才能获得自由 It’s only after we’ve lost everything that we’re free to do anything. 仔细想想，前提和结果都是理想状态，我们不可能抛弃...</p>
-    
-  </section>
-  <footer class="entry-footer"><span class="meta-item">
-  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar" style="user-select: text;"><rect x="3" y="4" width="18" height="18" rx="2" ry="2" style="user-select: text;"></rect><line x1="16" y1="2" x2="16" y2="6" style="user-select: text;"></line><line x1="8" y1="2" x2="8" y2="6" style="user-select: text;"></line><line x1="3" y1="10" x2="21" y2="10" style="user-select: text;"></line></svg>
-  <span>2022-06-25</span></span><span class="meta-item">
-  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon" style="user-select: text;"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z" style="user-select: text;"></path><line x1="7" y1="7" x2="7" y2="7" style="user-select: text;"></line></svg>
-  <span class="post-tags"><a href="https://eirms.com/tags/%E7%94%B5%E5%BD%B1/">电影</a><a href="https://eirms.com/tags/%E6%80%9D%E8%80%83/">思考</a></span></span><span class="meta-item">
-  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text" style="user-select: text;"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" style="user-select: text;"></path><polyline points="14 2 14 8 20 8" style="user-select: text;"></polyline><line x1="16" y1="13" x2="8" y2="13" style="user-select: text;"></line><line x1="16" y1="17" x2="8" y2="17" style="user-select: text;"></line><polyline points="10 9 9 9 8 9" style="user-select: text;"></polyline></svg>
-  <span>814 words</span></span><span class="meta-item">
-  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><circle cx="12" cy="12" r="9"></circle><polyline points="12 7 12 12 15 15"></polyline></svg>
-  <span>2 min</span></span>
-</footer>
-  <a class="entry-link" aria-label="post link to 只有抛弃一切，才能获得自由" href="https://eirms.com/posts/only-by-abandoning-everything-can-we-be-free/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2>昨天未说完的话
-    </h2>
-  </header>
-  <section class="entry-content">
-    
-      <p>今天在微博上了解到唐山打人事件的最新进展，9 名参与殴打的犯罪嫌疑人都已全部落网，希望他们得到应有的惩罚。 昨天写的《不做冷眼旁观之人，做勇敢发...</p>
-    
-  </section>
-  <footer class="entry-footer"><span class="meta-item">
-  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar" style="user-select: text;"><rect x="3" y="4" width="18" height="18" rx="2" ry="2" style="user-select: text;"></rect><line x1="16" y1="2" x2="16" y2="6" style="user-select: text;"></line><line x1="8" y1="2" x2="8" y2="6" style="user-select: text;"></line><line x1="3" y1="10" x2="21" y2="10" style="user-select: text;"></line></svg>
-  <span>2022-06-11</span></span><span class="meta-item">
-  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon" style="user-select: text;"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z" style="user-select: text;"></path><line x1="7" y1="7" x2="7" y2="7" style="user-select: text;"></line></svg>
-  <span class="post-tags"><a href="https://eirms.com/tags/%E7%A4%BE%E4%BC%9A/">社会</a><a href="https://eirms.com/tags/%E6%80%9D%E8%80%83/">思考</a><a href="https://eirms.com/tags/%E5%A5%B3%E6%9D%83/">女权</a></span></span><span class="meta-item">
-  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text" style="user-select: text;"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" style="user-select: text;"></path><polyline points="14 2 14 8 20 8" style="user-select: text;"></polyline><line x1="16" y1="13" x2="8" y2="13" style="user-select: text;"></line><line x1="16" y1="17" x2="8" y2="17" style="user-select: text;"></line><polyline points="10 9 9 9 8 9" style="user-select: text;"></polyline></svg>
-  <span>1279 words</span></span><span class="meta-item">
-  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><circle cx="12" cy="12" r="9"></circle><polyline points="12 7 12 12 15 15"></polyline></svg>
-  <span>3 min</span></span>
-</footer>
-  <a class="entry-link" aria-label="post link to 昨天未说完的话" href="https://eirms.com/posts/tang-shan-0610-2/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2>不做冷眼旁观之人，做勇敢发声之人
-    </h2>
-  </header>
-  <section class="entry-content">
-    
-      <p>今日我等若冷眼旁观，他日祸临己身，则无人为我摇旗呐喊。 河北唐山机场路一家烧烤店多人起冲突，一男子酒后搭讪对某女子进行性骚扰，该女子反抗，后多...</p>
-    
-  </section>
-  <footer class="entry-footer"><span class="meta-item">
-  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar" style="user-select: text;"><rect x="3" y="4" width="18" height="18" rx="2" ry="2" style="user-select: text;"></rect><line x1="16" y1="2" x2="16" y2="6" style="user-select: text;"></line><line x1="8" y1="2" x2="8" y2="6" style="user-select: text;"></line><line x1="3" y1="10" x2="21" y2="10" style="user-select: text;"></line></svg>
-  <span>2022-06-10</span></span><span class="meta-item">
-  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon" style="user-select: text;"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z" style="user-select: text;"></path><line x1="7" y1="7" x2="7" y2="7" style="user-select: text;"></line></svg>
-  <span class="post-tags"><a href="https://eirms.com/tags/%E6%80%9D%E8%80%83/">思考</a><a href="https://eirms.com/tags/%E5%A5%B3%E6%9D%83/">女权</a></span></span><span class="meta-item">
-  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text" style="user-select: text;"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" style="user-select: text;"></path><polyline points="14 2 14 8 20 8" style="user-select: text;"></polyline><line x1="16" y1="13" x2="8" y2="13" style="user-select: text;"></line><line x1="16" y1="17" x2="8" y2="17" style="user-select: text;"></line><polyline points="10 9 9 9 8 9" style="user-select: text;"></polyline></svg>
-  <span>1525 words</span></span><span class="meta-item">
-  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><circle cx="12" cy="12" r="9"></circle><polyline points="12 7 12 12 15 15"></polyline></svg>
-  <span>4 min</span></span>
-</footer>
-  <a class="entry-link" aria-label="post link to 不做冷眼旁观之人，做勇敢发声之人" href="https://eirms.com/posts/tang-shan-0610/"></a>
-</article>
-
-<article class="post-entry"> 
-<figure class="entry-cover"><img loading="lazy" src="https://rmt.ladydaily.com/fetch/lucy/storage/photo_2022-06-02_14-34-37.jpg" alt="">
-</figure>
-  <header class="entry-header">
-    <h2>写在kindle退出中国市场之后：最爱还是纸质书
-    </h2>
-  </header>
-  <section class="entry-content">
-    
-      <p>最近两天看完了我 2022 年第一本纸质书，麦家新作《人生海海》。今年都快过去一半了，看完了 16 本书，1 本纸质书，15 本都是在微信读书上看的电子书。但是...</p>
-    
-  </section>
-  <footer class="entry-footer"><span class="meta-item">
-  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar" style="user-select: text;"><rect x="3" y="4" width="18" height="18" rx="2" ry="2" style="user-select: text;"></rect><line x1="16" y1="2" x2="16" y2="6" style="user-select: text;"></line><line x1="8" y1="2" x2="8" y2="6" style="user-select: text;"></line><line x1="3" y1="10" x2="21" y2="10" style="user-select: text;"></line></svg>
-  <span>2022-06-02</span></span><span class="meta-item">
-  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon" style="user-select: text;"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z" style="user-select: text;"></path><line x1="7" y1="7" x2="7" y2="7" style="user-select: text;"></line></svg>
-  <span class="post-tags"><a href="https://eirms.com/tags/kindle/">kindle</a><a href="https://eirms.com/tags/%E8%AF%BB%E4%B9%A6/">读书</a><a href="https://eirms.com/tags/%E7%94%B5%E5%AD%90%E4%B9%A6/">电子书</a></span></span><span class="meta-item">
-  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text" style="user-select: text;"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" style="user-select: text;"></path><polyline points="14 2 14 8 20 8" style="user-select: text;"></polyline><line x1="16" y1="13" x2="8" y2="13" style="user-select: text;"></line><line x1="16" y1="17" x2="8" y2="17" style="user-select: text;"></line><polyline points="10 9 9 9 8 9" style="user-select: text;"></polyline></svg>
-  <span>3157 words</span></span><span class="meta-item">
-  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><circle cx="12" cy="12" r="9"></circle><polyline points="12 7 12 12 15 15"></polyline></svg>
-  <span>7 min</span></span>
-</footer>
-  <a class="entry-link" aria-label="post link to 写在kindle退出中国市场之后：最爱还是纸质书" href="https://eirms.com/posts/kindle/"></a>
-</article>
-<footer class="page-footer">
-  <nav class="pagination">
-    <a class="next" href="https://eirms.com/page/2/">Next Page »</a>
-  </nav>
-</footer>
-    </main>
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-<footer class="footer">
-  <br>目前已写 26 篇文章，总计 35097 字</br>
-  <span>&copy; 2022 <a href="https://eirms.com/">Eirms</a></span><span style="display: inline-block; margin-left: 1em;">
-    <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>
-  </span>
-  <span style="display: inline-block; margin-left: 1em;">
-    Powered by
-    <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
-    <a href="https://github.com/reorx/hugo-PaperModX/" rel="noopener" target="_blank">PaperModX</a>
-  </span>
+  <footer>
+  
 
 
-</footer>
-<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
-    <path d="M12 6H0l6-6z" />
-  </svg>
-</a>
-
-<script>
-  (function() {
-     
-    const disableThemeToggle = '' == '1';
-    if (disableThemeToggle) {
-      return;
-    }
-
-    let button = document.getElementById("theme-toggle")
-    
-    button.removeEventListener('click', toggleThemeListener)
-    
-    button.addEventListener('click', toggleThemeListener)
-  })();
-</script>
-
-<script>
-  (function () {
-    let menu = document.getElementById('menu')
-    if (menu) {
-      menu.scrollLeft = localStorage.getItem("menu-scroll-position");
-      menu.onscroll = function () {
-        localStorage.setItem("menu-scroll-position", menu.scrollLeft);
-      }
-    }
-
-    const disableSmoothScroll = '' == '1';
-    const enableInstantClick = '1' == '1';
-    
-    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches || disableSmoothScroll || enableInstantClick) {
-      return;
-    }
-    
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-      anchor.addEventListener("click", function (e) {
-        e.preventDefault();
-        var id = this.getAttribute("href").substr(1);
-        document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
-          behavior: "smooth"
-        });
-        if (id === "top") {
-          history.replaceState(null, null, " ");
-        } else {
-          history.pushState(null, null, `#${id}`);
-        }
-      });
-    });
-  })();
-</script>
-<script>
-  var mybutton = document.getElementById("top-link");
-  window.onscroll = function () {
-    if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
-      mybutton.style.visibility = "visible";
-      mybutton.style.opacity = "1";
-    } else {
-      mybutton.style.visibility = "hidden";
-      mybutton.style.opacity = "0";
-    }
+<section class="comments">
+  <div id="disqus_thread"></div>
+  <script>
+  var disqus_config = function () {
+  
   };
-</script>
-<script>
-  if (window.scrollListeners) {
-    
-    for (const listener of scrollListeners) {
-      window.removeEventListener('scroll', listener)
-    }
-  }
-  window.scrollListeners = []
-</script>
+  (function() {
+    var inIFrame = function() {
+      var iframe = true;
+      try { iframe = window.self !== window.top; } catch (e) {}
+      return iframe;
+    };
+    if (inIFrame()) return;
+    var disqus_js = '//huhexian.disqus.com/embed.js';
+    var d = document, s = d.createElement('script');
+    s.src = disqus_js; s.async = true;
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</section>
 
 
 
-<script src="/js/medium-zoom.min.js" data-no-instant
-></script>
-<script src="/js/instantclick.min.js" data-no-instant
-></script>
-<script data-no-instant>
-  
-  
-  
-  
-  
-  
-  InstantClick.init();
-</script>
-</body>
+<script src="//yihui.org/js/math-code.js"></script>
+<script async src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
+<script async src="//yihui.org/js/center-img.js"></script>
+
+  
+
+  
+  <hr>
+  <div class="copyright">© <a href="https://eirms.com">HuHeXian</a> 2022 | <a href="https://github.com/huhexian">Github</a></div>
+  
+  </footer>
+  </article>
+  
+  </body>
 </html>
+

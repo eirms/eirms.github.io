@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Eirms</title>
     <link>https://eirms.com/tags/</link>
     <description>Recent content in Tags on Eirms</description>
-    <image>
-      <url>https://eirms.com/favicon.ico</url>
-      <link>https://eirms.com/favicon.ico</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <lastBuildDate>Sat, 02 Jul 2022 22:41:34 +0800</lastBuildDate><atom:link href="https://eirms.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>读书</title>
@@ -17,7 +14,6 @@
       
       <guid>https://eirms.com/tags/%E8%AF%BB%E4%B9%A6/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -27,7 +23,6 @@
       
       <guid>https://eirms.com/tags/%E6%80%9D%E8%80%83/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -37,7 +32,6 @@
       
       <guid>https://eirms.com/tags/%E7%94%B5%E5%BD%B1/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -47,7 +41,6 @@
       
       <guid>https://eirms.com/tags/%E5%A5%B3%E6%9D%83/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -57,7 +50,6 @@
       
       <guid>https://eirms.com/tags/%E7%A4%BE%E4%BC%9A/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -67,7 +59,6 @@
       
       <guid>https://eirms.com/tags/kindle/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -77,7 +68,6 @@
       
       <guid>https://eirms.com/tags/%E7%94%B5%E5%AD%90%E4%B9%A6/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -87,7 +77,6 @@
       
       <guid>https://eirms.com/tags/%E5%86%99%E4%BD%9C/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -97,7 +86,6 @@
       
       <guid>https://eirms.com/tags/flomo/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -107,7 +95,6 @@
       
       <guid>https://eirms.com/tags/notion/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -117,7 +104,6 @@
       
       <guid>https://eirms.com/tags/obsidian/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -127,7 +113,6 @@
       
       <guid>https://eirms.com/tags/%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A0%91/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -137,7 +122,6 @@
       
       <guid>https://eirms.com/tags/markdown/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -147,7 +131,6 @@
       
       <guid>https://eirms.com/tags/%E5%85%AC%E4%BC%97%E5%8F%B7/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -157,7 +140,6 @@
       
       <guid>https://eirms.com/tags/%E5%BE%AE%E4%BF%A1/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -167,7 +149,6 @@
       
       <guid>https://eirms.com/tags/%E6%91%84%E5%BD%B1/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -177,7 +158,6 @@
       
       <guid>https://eirms.com/tags/%E7%94%9F%E6%B4%BB/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -187,7 +167,6 @@
       
       <guid>https://eirms.com/tags/twitter/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -197,7 +176,6 @@
       
       <guid>https://eirms.com/tags/%E7%94%9F%E6%97%A5/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -207,7 +185,6 @@
       
       <guid>https://eirms.com/tags/%E6%B6%88%E8%B4%B9/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -217,7 +194,6 @@
       
       <guid>https://eirms.com/tags/%E9%9F%B3%E4%B9%90/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -227,7 +203,6 @@
       
       <guid>https://eirms.com/tags/%E5%8D%9A%E5%AE%A2/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -237,7 +212,6 @@
       
       <guid>https://eirms.com/tags/%E5%B7%A5%E4%BD%9C/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -247,7 +221,6 @@
       
       <guid>https://eirms.com/tags/%E7%90%86%E5%8F%91/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -257,7 +230,6 @@
       
       <guid>https://eirms.com/tags/%E6%97%A5%E8%AE%B0/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -267,7 +239,6 @@
       
       <guid>https://eirms.com/tags/wordpress/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -277,7 +248,6 @@
       
       <guid>https://eirms.com/tags/windows/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -287,7 +257,6 @@
       
       <guid>https://eirms.com/tags/%E7%94%B5%E8%84%91/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
   </channel>

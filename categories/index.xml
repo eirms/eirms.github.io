@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Eirms</title>
     <link>https://eirms.com/categories/</link>
     <description>Recent content in Categories on Eirms</description>
-    <image>
-      <url>https://eirms.com/favicon.ico</url>
-      <link>https://eirms.com/favicon.ico</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://eirms.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://eirms.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>生日 on Eirms</title>
     <link>https://eirms.com/tags/%E7%94%9F%E6%97%A5/</link>
     <description>Recent content in 生日 on Eirms</description>
-    <image>
-      <url>https://eirms.com/favicon.ico</url>
-      <link>https://eirms.com/favicon.ico</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <lastBuildDate>Tue, 08 Mar 2022 14:50:50 +0800</lastBuildDate><atom:link href="https://eirms.com/tags/%E7%94%9F%E6%97%A5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>生日快乐</title>
@@ -16,11 +13,9 @@
       <pubDate>Tue, 08 Mar 2022 14:50:50 +0800</pubDate>
       
       <guid>https://eirms.com/posts/20-year-old/</guid>
-      <description>村上春树｜《挪威的森林》 “我总以为18岁以后是19岁，19岁以后是18岁，20岁永远不会到来。但显然时光并不这么想，20岁就这样悄无声息地来</description>
-      <content:encoded><![CDATA[<p>村上春树｜《挪威的森林》</p>
-<p>“我总以为18岁以后是19岁，19岁以后是18岁，20岁永远不会到来。但显然时光并不这么想，20岁就这样悄无声息地来了。”</p>
-<p>20岁生日快乐！</p>
-]]></content:encoded>
+      <description>村上春树｜《挪威的森林》
+“我总以为18岁以后是19岁，19岁以后是18岁，20岁永远不会到来。但显然时光并不这么想，20岁就这样悄无声息地来了。”
+20岁生日快乐！</description>
     </item>
     
   </channel>

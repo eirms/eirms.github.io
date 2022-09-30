@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>博客 on Eirms</title>
     <link>https://eirms.com/tags/%E5%8D%9A%E5%AE%A2/</link>
     <description>Recent content in 博客 on Eirms</description>
-    <image>
-      <url>https://eirms.com/favicon.ico</url>
-      <link>https://eirms.com/favicon.ico</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <lastBuildDate>Sat, 23 Oct 2021 14:55:25 +0800</lastBuildDate><atom:link href="https://eirms.com/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我回来了</title>
@@ -16,13 +13,11 @@
       <pubDate>Sat, 23 Oct 2021 14:55:25 +0800</pubDate>
       
       <guid>https://eirms.com/posts/come-back/</guid>
-      <description>从9月30日开始，我就在博客上面说我可能会暂停一段时间，到今天一个月不到的时间，其实发生了许多事情，其中包括我另一段恋爱的开始到结束，也包括</description>
-      <content:encoded><![CDATA[<p>从9月30日开始，我就在博客上面说我可能会暂停一段时间，到今天一个月不到的时间，其实发生了许多事情，其中包括我另一段恋爱的开始到结束，也包括我的“青山绿水”博客的转让等等。</p>
-<p>这段恋情来得匆匆，去得也匆匆，我又被甩了，好在仅仅十天，没有太多的留恋。所以到现在，其实也并没有想法了，或许真是“没有世俗的欲望”了，希望好好沉淀自己，提升自己，遇到真正合适的人。</p>
-<p>对于博客圈经常看我博客的人来说，“青山绿水”的转让可能是一件比较突然的事情。其实早在几个月前就有人对我的博客有想法了，当时也没太在意。可能就有人会说，你不是说要坚持写博客吗？怎么就这样转手了？这个我不辩解，原博客为什么转手，何种形式，不用说大家也清楚。它仅仅是互联网上曾经存在的一个小东西，我通过它学到了许多知识，认识了许多人，<strong>这其实比它本身更有意义和价值</strong>。</p>
-<p>坚持写博客，这个是永远不会改变的，所以我才新注册了域名，建立了“胡言胡语”，总有那么些话是胡说的。确实，有很多话是胡说的，也有很多话是胡说的。重新建一个博客比较难，尽管原先博客数据我都保存下来了，上传服务器修改相关信息就可以直接用的，但我并没有这样做，毕竟它也三年了，不删除，就放在那，大家也可以继续去看，我想看看“胡言胡语”三年后是个什么情况。选择 .cc 后缀的域名也算是一种无奈之举，主流后缀没有合适的，不想继续用名字全拼，同时也考虑到以后可能会继续备案，.cc 也是合适的选择。博客目前放在腾讯云香港轻量应用服务器，带宽较小，访问速度可能远不如以前，望多包涵。</p>
-<p>重新开始，重新出发。原博客的友情链接，如果想继续和我交换友链，欢迎在博客留言，我会及时加上。经常看我博客的朋友，感谢之余也可以订阅我的“胡言胡语”，我们一同在博客的路上走下去。<strong>中文博客圈微信群</strong>也有130多人了，平常比较活跃，聊天的内容也很广泛，如有兴趣的博友，可以联系我进群。</p>
-]]></content:encoded>
+      <description>从9月30日开始，我就在博客上面说我可能会暂停一段时间，到今天一个月不到的时间，其实发生了许多事情，其中包括我另一段恋爱的开始到结束，也包括我的“青山绿水”博客的转让等等。
+这段恋情来得匆匆，去得也匆匆，我又被甩了，好在仅仅十天，没有太多的留恋。所以到现在，其实也并没有想法了，或许真是“没有世俗的欲望”了，希望好好沉淀自己，提升自己，遇到真正合适的人。
+对于博客圈经常看我博客的人来说，“青山绿水”的转让可能是一件比较突然的事情。其实早在几个月前就有人对我的博客有想法了，当时也没太在意。可能就有人会说，你不是说要坚持写博客吗？怎么就这样转手了？这个我不辩解，原博客为什么转手，何种形式，不用说大家也清楚。它仅仅是互联网上曾经存在的一个小东西，我通过它学到了许多知识，认识了许多人，这其实比它本身更有意义和价值。
+坚持写博客，这个是永远不会改变的，所以我才新注册了域名，建立了“胡言胡语”，总有那么些话是胡说的。确实，有很多话是胡说的，也有很多话是胡说的。重新建一个博客比较难，尽管原先博客数据我都保存下来了，上传服务器修改相关信息就可以直接用的，但我并没有这样做，毕竟它也三年了，不删除，就放在那，大家也可以继续去看，我想看看“胡言胡语”三年后是个什么情况。选择 .cc 后缀的域名也算是一种无奈之举，主流后缀没有合适的，不想继续用名字全拼，同时也考虑到以后可能会继续备案，.cc 也是合适的选择。博客目前放在腾讯云香港轻量应用服务器，带宽较小，访问速度可能远不如以前，望多包涵。
+重新开始，重新出发。原博客的友情链接，如果想继续和我交换友链，欢迎在博客留言，我会及时加上。经常看我博客的朋友，感谢之余也可以订阅我的“胡言胡语”，我们一同在博客的路上走下去。中文博客圈微信群也有130多人了，平常比较活跃，聊天的内容也很广泛，如有兴趣的博友，可以联系我进群。</description>
     </item>
     
     <item>
@@ -31,74 +26,20 @@
       <pubDate>Sat, 06 Feb 2021 09:55:32 +0800</pubDate>
       
       <guid>https://eirms.com/posts/about-my-blog/</guid>
-      <description>之前在网上看到过这样一句话：当你不知道该写什么的时候就写如何搭建博客。不过，我这篇不是要讲如何搭建，而是介绍下我博客的相关信息。因为经常会有</description>
-      <content:encoded><![CDATA[<p>之前在网上看到过这样一句话：<strong>当你不知道该写什么的时候就写如何搭建博客</strong>。不过，我这篇不是要讲如何搭建，而是介绍下我博客的相关信息。因为经常会有网友给我留言，问我博客是什么程序、什么主题，用的什么服务器之类的问题，今天就整理下。</p>
-<table>
-<thead>
-<tr>
-<th>博客程序</th>
-<th><a href="https://cn.wordpress.org/">WordPress</a></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>博客主题</td>
-<td><a href="https://cn.wordpress.org/themes/twentytwelve/">Twenty Twelve</a></td>
-</tr>
-<tr>
-<td>域名</td>
-<td><a href="https://dnspod.cloud.tencent.com/">腾讯云</a></td>
-</tr>
-<tr>
-<td>服务器</td>
-<td><a href="https://cloud.tencent.com/act/campus">腾讯云</a>（学生机）</td>
-</tr>
-<tr>
-<td>域名解析</td>
-<td><a href="https://www.dnspod.cn/">DNSPod</a></td>
-</tr>
-<tr>
-<td>服务器面板</td>
-<td><a href="https://www.bt.cn/">宝塔面板</a></td>
-</tr>
-</tbody>
-</table>
-<p>博客基本的信息就是表格里所示。现在详细说一说。</p>
-<h2 id="服务器">服务器</h2>
-<p>其实如果对个人博客要求不高的话，简单的虚拟主机就可以满足。2018年我刚开始建博客的时候用的就是虚拟主机，从**<a href="http://husay.cc/lxzj.html">老薛主机</a><strong>，到</strong>网硕互联**，最后才到<strong>腾讯云</strong>的学生机。服务器可以折腾很多东西，不喜欢折腾只想简简单单写博客的，虚拟主机是最好的选择。</p>
-<p>对于服务器，如果你是25岁以下的用户，你可以享受腾讯云和阿里云的学生优惠，对付一个博客足够了；如果不是，腾讯云和阿里云也有实惠套餐供你选择。国内服务器推荐阿里云和腾讯云，国外服务器没用过，不做推荐。</p>
-<p>对于虚拟主机，<strong><a href="https://my.liluohost.com/aff.php?aff=21">篱落主机</a></strong>、<strong>老薛主机</strong>、<strong><a href="https://my.hengtian.cc/aff.php?aff=3731">衡天主机</a></strong>、<strong><a href="http://husay.cc/hczj.html">恒创主机</a></strong>，价格实惠，配置较好，可以尝试。</p>
-<h2 id="域名">域名</h2>
-<p>域名不建议选择非主流域名，我博客第一个域名是 men 后缀：longest.men，取“最长的男人”之意，现在用的 com 域名都是在网硕互联买虚拟主机的时候赠送注册的。</p>
-<p>是否备案取决自己，各有各的好处。已备案的域名可以享受国内服务器/虚拟主机和CDN服务，速度较快，但是多多少少会受到约束；未备案的域名只能使用大陆以外地区的服务器/虚拟主机，约束少，但速度会受到影响。</p>
-<p>com/cn/net可以考虑首选，me做个人博客域名很适合。域名注册平台，国内可以选择<a href="http://www.xinnet.com/">新网</a>、<a href="https://wanwang.aliyun.com/">万网</a>(阿里云)、<a href="https://www.west.cn/">西部数码</a>、<a href="https://www.quyu.net/">趣域</a>……国外平台可以选择 <a href="https://www.namecheap.com/">Namecheap</a>、<a href="https://sg.godaddy.com/zh">GoDaddy</a>(狗爹)、<a href="https://www.namesilo.com/">NameSilo</a>、<a href="https://www.dynadot.com/">Dynadot</a>、<a href="https://porkbun.com/">Porkbun</a>……另外推荐域名比价平台：<a href="https://www.nazhumi.com/">哪煮米</a>、<a href="https://namebeta.com/">NameBeta</a>。</p>
-<h2 id="程序">程序</h2>
-<p>前前后后用过 <a href="https://cn.wordpress.org/"><strong>WordPress</strong></a>、<a href="http://typecho.org/"><strong>Typecho</strong></a>、<a href="https://www.zblogcn.com/"><strong>zblog</strong></a>、<a href="https://www.emlog.net/"><strong>emlog</strong></a>，最后觉得 WordPress 更上手，生态强大，可操作性强，容易折腾，功能也比较完善。尽管有人觉得它过于臃肿，加载较慢，但看看我博客，慢吗？当然方案也不止这一种。</p>
-<p>静态博客也是一个不错的选择，例如 <a href="https://hexo.io/zh-cn/"><strong>Hexo</strong></a>、<a href="https://gridea.dev/"><strong>Gridea</strong></a>、<a href="http://jekyllcn.com/"><strong>Jekyll</strong></a>、<a href="https://www.gohugo.org/"><strong>Hugo</strong></a>……这些皆可搭配 <strong><a href="https://github.com/">Github</a></strong>、<strong><a href="https://coding.net/">Coding</a></strong>，再配上免费的二级域名，无成本即可搭建一个博客，我不太了解，网上教程很多，自行搜索即可。</p>
-<h2 id="插件">插件</h2>
-<p>在插件方面，我一向就是能用代码尽量不用插件。</p>
-<ul>
-<li><strong><a href="https://cn.wordpress.org/plugins/commonwp/">commonWP</a></strong></li>
-<li><strong><a href="https://wordpress.org/plugins/comet-cache/">Comet Cache</a></strong></li>
-<li><strong>twentytwelve 主题功能增强</strong></li>
-<li><strong><a href="https://www.nicetheme.cn/nicetheme-plugins-store.html">积木箱子</a></strong></li>
-<li><strong><a href="http://husay.cc/2866.html">豆瓣读书观影记录</a></strong></li>
-</ul>
-<p>第一个用来缓存博客后台相关文件，第二个类似 WP Super Cache ，第三个插件是我基于 <a href="https://cyhour.com/"><strong>沙唐桔</strong></a> 制作的主题增强插件，在他的代码基础上加了别的功能。并且采用 <a href="https://zww.me/wordpress-archive-page-template-wp-primary-function-2014-edition.z-turn"><strong>ZWWoOoOo</strong></a> 的文章归档教程制作了 <strong><a href="http://husay.cc/archives.html">归档页面</a></strong> 。用 <strong><a href="http://husay.cc/2866.html">豆瓣读书观影记录</a></strong> 制作了两个页面：<a href="http://husay.cc/book.html"><strong>阅读记录</strong></a>、<a href="http://husay.cc/movie.html"><strong>观影记录</strong></a>。主题css方面稍微修改了，具体修改在哪，自行查看源代码并对比原版主题即可。</p>
-<h2 id="主题">主题</h2>
-<p>个人博客的话，官方的主题基本能满足需求。例如我现在用的 Twenty Twelve，过去使用的 Twenty Fifteen，各有特色。诸如此类的免费主题还有很多，各大主题聚合站基本都有；付费主题作者推荐：<a href="https://www.nicetheme.cn/"><strong>nicetheme</strong></a>、<a href="https://www.xintheme.com/"><strong>XinTheme</strong></a>，主题质量和售后服务蛮不错。</p>
-<h2 id="优化">优化</h2>
-<p>建议的优化方案是配置 CDN，开启动静分离，但我没这么做，太复杂了，我折腾容易出错。于是我就在服务器方面进行了优化。使用 Memcached 缓存数据库加速 WordPress 网站；使用 Comet Cache 静态缓存插件。在主题方面，简化代码、屏蔽没用的功能，这些用上面提到的 <strong>twentytwelve 主题功能增强</strong> 插件就可以做到。CDN 推荐<a href="https://www.qiniu.com/"><strong>七牛云</strong></a>、<a href="https://www.upyun.com/"><strong>又拍云</strong></a>、<a href="https://cloud.tencent.com/product/cdn"><strong>腾讯云</strong></a>、<a href="https://www.aliyun.com/product/cdn"><strong>阿里云</strong></a>，如果是国外服务器，则推荐 <a href="https://www.cloudflare.com/"><strong>Cloudflare</strong></a>。</p>
-<h2 id="rss阅读">RSS阅读</h2>
-<p>这方面主要有两个方案：自己建的和第三方平台。</p>
-<ul>
-<li>自建 RSS 主要推荐：<a href="https://rss.anyant.com/"><strong>蚁阅</strong></a>、Tiny Tiny Rss</li>
-<li>第三方平台推荐：Inoreader、Feedly、RSS 追踪 可以参考我以前的文章：</li>
-<li><a href="http://husay.cc/3363.html">RSS追踪：Windows平台上一款好用的RSS阅读器</a></li>
-<li><a href="http://husay.cc/3249.html">我还是更喜欢这样的RSS阅读</a></li>
-</ul>
-<p>上述所列的仅供参考，具体使用还得看个人。 我的博客马上三周年，写了近三年，用了 WordPress 近三年，多多少少也有点经验，今天写出来权当分享经验，如有错误，欢迎指正。 如果对博客建设方面还有问题，欢迎<a href="http://husay.cc/contact.html">联系</a>我。</p>
-]]></content:encoded>
+      <description>之前在网上看到过这样一句话：当你不知道该写什么的时候就写如何搭建博客。不过，我这篇不是要讲如何搭建，而是介绍下我博客的相关信息。因为经常会有网友给我留言，问我博客是什么程序、什么主题，用的什么服务器之类的问题，今天就整理下。
+博客程序 WordPress 博客主题 Twenty Twelve 域名 腾讯云 服务器 腾讯云（学生机） 域名解析 DNSPod 服务器面板 宝塔面板 博客基本的信息就是表格里所示。现在详细说一说。
+服务器 其实如果对个人博客要求不高的话，简单的虚拟主机就可以满足。2018年我刚开始建博客的时候用的就是虚拟主机，从**老薛主机，到网硕互联**，最后才到腾讯云的学生机。服务器可以折腾很多东西，不喜欢折腾只想简简单单写博客的，虚拟主机是最好的选择。
+对于服务器，如果你是25岁以下的用户，你可以享受腾讯云和阿里云的学生优惠，对付一个博客足够了；如果不是，腾讯云和阿里云也有实惠套餐供你选择。国内服务器推荐阿里云和腾讯云，国外服务器没用过，不做推荐。
+对于虚拟主机，篱落主机、老薛主机、衡天主机、恒创主机，价格实惠，配置较好，可以尝试。
+域名 域名不建议选择非主流域名，我博客第一个域名是 men 后缀：longest.men，取“最长的男人”之意，现在用的 com 域名都是在网硕互联买虚拟主机的时候赠送注册的。
+是否备案取决自己，各有各的好处。已备案的域名可以享受国内服务器/虚拟主机和CDN服务，速度较快，但是多多少少会受到约束；未备案的域名只能使用大陆以外地区的服务器/虚拟主机，约束少，但速度会受到影响。
+com/cn/net可以考虑首选，me做个人博客域名很适合。域名注册平台，国内可以选择新网、万网(阿里云)、西部数码、趣域……国外平台可以选择 Namecheap、GoDaddy(狗爹)、NameSilo、Dynadot、Porkbun……另外推荐域名比价平台：哪煮米、NameBeta。
+程序 前前后后用过 WordPress、Typecho、zblog、emlog，最后觉得 WordPress 更上手，生态强大，可操作性强，容易折腾，功能也比较完善。尽管有人觉得它过于臃肿，加载较慢，但看看我博客，慢吗？当然方案也不止这一种。
+静态博客也是一个不错的选择，例如 Hexo、Gridea、Jekyll、Hugo……这些皆可搭配 Github、Coding，再配上免费的二级域名，无成本即可搭建一个博客，我不太了解，网上教程很多，自行搜索即可。
+插件 在插件方面，我一向就是能用代码尽量不用插件。
+commonWP Comet Cache twentytwelve 主题功能增强 积木箱子 豆瓣读书观影记录 第一个用来缓存博客后台相关文件，第二个类似 WP Super Cache ，第三个插件是我基于 沙唐桔 制作的主题增强插件，在他的代码基础上加了别的功能。并且采用 ZWWoOoOo 的文章归档教程制作了 归档页面 。用 豆瓣读书观影记录 制作了两个页面：阅读记录、观影记录。主题css方面稍微修改了，具体修改在哪，自行查看源代码并对比原版主题即可。
+主题 个人博客的话，官方的主题基本能满足需求。例如我现在用的 Twenty Twelve，过去使用的 Twenty Fifteen，各有特色。诸如此类的免费主题还有很多，各大主题聚合站基本都有；付费主题作者推荐：nicetheme、XinTheme，主题质量和售后服务蛮不错。
+优化 建议的优化方案是配置 CDN，开启动静分离，但我没这么做，太复杂了，我折腾容易出错。于是我就在服务器方面进行了优化。使用 Memcached 缓存数据库加速 WordPress 网站；使用 Comet Cache 静态缓存插件。在主题方面，简化代码、屏蔽没用的功能，这些用上面提到的 twentytwelve 主题功能增强 插件就可以做到。CDN 推荐七牛云、又拍云、腾讯云、阿里云，如果是国外服务器，则推荐 Cloudflare。</description>
     </item>
     
     <item>
@@ -107,14 +48,12 @@
       <pubDate>Fri, 22 Jan 2021 09:52:41 +0800</pubDate>
       
       <guid>https://eirms.com/posts/just-write-blog-simply/</guid>
-      <description>怎么又换成twenty twelve主题了？我也想问自己为什么，可能我就适合这样的吧，字多图少，不会配图，瞎放也丑，干脆以后写东西能不放图就不</description>
-      <content:encoded><![CDATA[<p>怎么又换成twenty twelve主题了？我也想问自己为什么，可能我就适合这样的吧，字多图少，不会配图，瞎放也丑，干脆以后写东西能不放图就不放图，正好也减轻我CDN流量压力。前两天博客被人CC了一番，百度云加速免费版直接超量，要想继续用，只能用付费版，不当他的韭菜了，当腾讯云的韭菜吧。在<a href="https://www.youngfree.cn/">杨景文</a>博主的帮助下，配置了腾讯云CDN，原本一起套了又拍云，但是有问题，就放弃了。</p>
-<p>正如<a href="https://laozhang.org/">张波博主</a>所说：停止一些无意义的折腾。简简单单的写个博客，就是现在最好的追求。<a href="http://www.guanhaodong.com/">官浩东</a>博主现在差不多也和我一样的心态，折腾来折腾去，WordPress和Typecho都用过了，最后还是和我一样用上了twenty twelve。说起来，他开始写博客多多少少还和我有点关系，他看到我在料Sam的评论，“点进去一看，嚯，高中生博主，好厉害，我也要弄”，于是他就注册搭建了。</p>
-<p>看到群里<a href="https://imzm.im/">陈仓颉</a>博主在折腾博客的邮件发信问题，折腾得头都大了，有点像当初的我，左搞搞右搞搞，还是没弄成，当时索性不搞这个功能了，到后来换到腾讯云服务器才折腾好。基本的弄好我觉得就足够了，写博客强调的是写，能写就行，主题也是次要，能入眼就行，顶多稍微改改细节。</p>
-<p>其实换成twenty twelve还有另一个原因，沙唐桔搞了一个主题增强<a href="https://cyhour.com/1626/">插件</a>，一下子就解决了蛮多官方主题的一些问题，让我立即就想上手了，于是真的上手了。</p>
-<p>在整理的时候，顺便看了看2018年写的文章，那一年总共有116篇，仔细看的话，有的确实不能算是文章，水的很。现在，也水的很，随性写一写。</p>
-<p>专注写作，专注阅读，专注思考。主题什么的，别想打扰我。</p>
-]]></content:encoded>
+      <description>怎么又换成twenty twelve主题了？我也想问自己为什么，可能我就适合这样的吧，字多图少，不会配图，瞎放也丑，干脆以后写东西能不放图就不放图，正好也减轻我CDN流量压力。前两天博客被人CC了一番，百度云加速免费版直接超量，要想继续用，只能用付费版，不当他的韭菜了，当腾讯云的韭菜吧。在杨景文博主的帮助下，配置了腾讯云CDN，原本一起套了又拍云，但是有问题，就放弃了。
+正如张波博主所说：停止一些无意义的折腾。简简单单的写个博客，就是现在最好的追求。官浩东博主现在差不多也和我一样的心态，折腾来折腾去，WordPress和Typecho都用过了，最后还是和我一样用上了twenty twelve。说起来，他开始写博客多多少少还和我有点关系，他看到我在料Sam的评论，“点进去一看，嚯，高中生博主，好厉害，我也要弄”，于是他就注册搭建了。
+看到群里陈仓颉博主在折腾博客的邮件发信问题，折腾得头都大了，有点像当初的我，左搞搞右搞搞，还是没弄成，当时索性不搞这个功能了，到后来换到腾讯云服务器才折腾好。基本的弄好我觉得就足够了，写博客强调的是写，能写就行，主题也是次要，能入眼就行，顶多稍微改改细节。
+其实换成twenty twelve还有另一个原因，沙唐桔搞了一个主题增强插件，一下子就解决了蛮多官方主题的一些问题，让我立即就想上手了，于是真的上手了。
+在整理的时候，顺便看了看2018年写的文章，那一年总共有116篇，仔细看的话，有的确实不能算是文章，水的很。现在，也水的很，随性写一写。
+专注写作，专注阅读，专注思考。主题什么的，别想打扰我。</description>
     </item>
     
   </channel>

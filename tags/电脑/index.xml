@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>电脑 on Eirms</title>
     <link>https://eirms.com/tags/%E7%94%B5%E8%84%91/</link>
     <description>Recent content in 电脑 on Eirms</description>
-    <image>
-      <url>https://eirms.com/favicon.ico</url>
-      <link>https://eirms.com/favicon.ico</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <lastBuildDate>Sat, 09 Jan 2021 09:44:42 +0800</lastBuildDate><atom:link href="https://eirms.com/tags/%E7%94%B5%E8%84%91/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何高效使用你的电脑？</title>
@@ -16,91 +13,29 @@
       <pubDate>Sat, 09 Jan 2021 09:44:42 +0800</pubDate>
       
       <guid>https://eirms.com/posts/how-to-use-your-windows-computer/</guid>
-      <description>简洁是高效工作的前提，如何将我们的电脑桌面发挥它的最大作用，下面以Windows 10为例介绍。 看似平平无奇，这就是今天介绍的。 01.Win1</description>
-      <content:encoded><![CDATA[<p>简洁是高效工作的前提，如何将我们的电脑桌面发挥它的最大作用，下面以Windows 10为例介绍。</p>
-<p>
-  <img loading="lazy" src="https://static.husay.cc/2022/05/2022051301421493.png" alt=""  /></p>
-<p>看似平平无奇，这就是今天介绍的。</p>
-<h2 id="01win10自带的磁贴功能收纳快捷方式">01.Win10自带的磁贴功能收纳快捷方式</h2>
-<p>使用之前需要先设置“开始”页面。<strong>打开设置→个性化→开始→使用全屏开始屏幕</strong>，勾选**“使用全屏开始屏幕”和“在开始菜单上显示更多磁贴”**。右键单击需要添加到此磁贴的应用，选择“固定到开始屏幕”，即可添加应用至磁贴中。如下图所示：</p>
-<p>
-  <img loading="lazy" src="https://rmt.dogedoge.com/fetch/lucy/storage/Q20210109092146.png" alt=""  /></p>
-<p>
-  <img loading="lazy" src="https://rmt.dogedoge.com/fetch/lucy/storage/Q20210109092509.png" alt=""  /></p>
-<p>将经常使用的软件添加至磁贴，桌面可以做到几乎没有一项图标，可以不像我那样，大可只新建一个文件夹，用来存放临时文档。</p>
-<h2 id="02win10多窗口分屏让操作更简单">02.Win10多窗口分屏——让操作更简单</h2>
-<p>在工作的时候经常需要来回切换多个窗口，而来回切换即费时间又容易弄混，在Win7和Win10系统都存在这个分屏功能，支持二/三/四屏分屏。分屏之后的各窗口互不影响，独立工作。使用方法：<strong>拖住窗口移动至桌面上下或左右边缘，即可实现分屏操作</strong>。</p>
-<p>
-  <img loading="lazy" src="https://rmt.dogedoge.com/fetch/lucy/storage/Q20210109094732.png" alt=""  /></p>
-<p>
-  <img loading="lazy" src="https://rmt.dogedoge.com/fetch/lucy/storage/Q20210109094045.png" alt=""  /></p>
-<p>如上图所示，拖动之后，一边窗口会自动缩小，另一边由你选择其他窗口进行补充。除了通过鼠标拖动窗口来实现分屏，还可以通过「<strong>Win键+←/→</strong>」的方式来实现：在当前的页面按下「<strong>Win键+→</strong>」，窗口就会自动向右缩小为原来的一半，同时左边空白的部分可以选择其他窗口进行补充。</p>
-<p>如果已经处于二分屏状态，则可通过「<strong>Win键+↑/↓</strong>」来<strong>开启三/四分屏</strong>。使用方法同样简单，选中二分屏中一个页面，按下「<strong>Win键+↑/↓</strong>」即可实现。</p>
-<p>
-  <img loading="lazy" src="https://rmt.dogedoge.com/fetch/lucy/storage/Q20210109095928.png" alt=""  /></p>
-<h2 id="03win10任务视图创建多个桌面">03.Win10任务视图——创建多个桌面</h2>
-<p><strong>任务视图</strong>是一个在Windows 10中首次引入的任务切换器和虚拟桌面系统。任务视图允许用户快速定位到已打开的窗口，快速隐藏所有窗口并显示另一个桌面，以及管理多个监视器或虚拟桌面上的窗口。单击任务栏上的“任务视图”按钮或从屏幕左侧滑动将展示所有窗口，然后允许用户切换这些窗口，或者切换多个工作区。（来自百度百科）</p>
-<p>
-  <img loading="lazy" src="https://rmt.dogedoge.com/fetch/lucy/storage/Q20210109101734.png" alt=""  /></p>
-<p>一台电脑当作多台电脑使用，相当于有了一台“虚拟电脑”。将电脑桌面按用途分为工作桌面、写作桌面、游戏桌面、摸鱼桌面。按快捷键「<strong>Win键+Tab</strong>」即可在最顶部看到桌面选项，点击「<strong>+号</strong>」即可创建新桌面。</p>
-<p>Tips：工作（摸鱼）专用快捷键</p>
-<blockquote>
-<p><strong>Win+Ctrl+D</strong>：快速创建新的桌面并切换过去
-<strong>Win+Ctrl+F4</strong>：删除当前使用的虚拟桌面
-<strong>Win+Ctrl+←/→</strong>：快速切换到相邻的左右桌面</p>
-</blockquote>
-<p>熟悉掌握这些快捷键，可以大大提高工作效率和摸鱼速度。</p>
-<h2 id="04win10中隐藏的剪切板winv">04.Win10中隐藏的剪切板——Win+V</h2>
-<p>貌似在以前的系统里并没有剪贴板功能，而在Windows10中内置了该剪贴板功能，在剪贴板里你可以看到最近复制粘贴的文字和图片。同时你也可以选择关机时是否清理剪贴板里的内容。快捷键：「<strong>Win+V</strong>」</p>
-<p>
-  <img loading="lazy" src="https://rmt.dogedoge.com/fetch/lucy/storage/jtb.gif" alt=""  /></p>
-<h2 id="05win10常用快捷键">05.Win10常用快捷键</h2>
-<ul>
-<li>「<strong>Win+i</strong>」打开Windows的配置窗口</li>
-<li>「<strong>Win+A</strong>」打开Windows的通知中心</li>
-<li>「<strong>Win+D</strong>」一键显示桌面，将所有的窗口最小化</li>
-<li>「<strong>Win+E</strong>」快速打开资源管理器——“我的电脑”</li>
-<li>「<strong>Win+L</strong>」一键锁定电脑屏幕</li>
-<li>「<strong>Win+Q/S</strong>」快速打开Cortans搜索框</li>
-<li>「<strong>Win+数字键</strong>」一次打开固定在任务栏的软件</li>
-<li>「<strong>Win+“+”或“-”</strong>」使用系统放大镜功能</li>
-<li>「<strong>Ctrl+Alt+Del</strong>」快速打开任务管理器</li>
-<li>「<strong>Ctrl+Shift</strong>」快速切换输入法</li>
-<li>「<strong>Ctrl+空格</strong>」快速切换中英文输入</li>
-<li>「<strong>Alt+Tab</strong>」快速切换到不同的窗口视图</li>
-<li>「<strong>Ctrl+Tab</strong>」快速切换浏览器窗口</li>
-<li>「<strong>Ctrl+Shift+T</strong>」一键打开上一个被关闭的网页</li>
-<li>「<strong>Win+句号键</strong>」打开系统自带表情符号</li>
-<li>「<strong>Ctrl+Shift+B</strong>」调出Win10的特殊符号面板（比上一条丰富）</li>
-<li>「<strong>Ctrl+Shift+F</strong>」文字简繁体切换</li>
-</ul>
-<h2 id="06win10输入法被忽视的强大功能">06.Win10输入法——被忽视的强大功能</h2>
-<p>看起来平平无奇，但功能强大到可以不用下载其他输入法。</p>
-<p><strong>自带输入法的U/V输入模式</strong></p>
-<p>
-  <img loading="lazy" src="https://rmt.dogedoge.com/fetch/lucy/storage/Q20210109104801.png" alt=""  /></p>
-<p>46个二百五等于多少？</p>
-<p>
-  <img loading="lazy" src="https://rmt.dogedoge.com/fetch/lucy/storage/Q20210109104715.png" alt=""  /></p>
-<p>各种格式的数字</p>
-<p>
-  <img loading="lazy" src="https://rmt.dogedoge.com/fetch/lucy/storage/Q20210109104838.png" alt=""  /></p>
-<p>各种格式的时间</p>
-<p>
-  <img loading="lazy" src="https://rmt.dogedoge.com/fetch/lucy/storage/Q20210109104635.png" alt=""  /></p>
-<p>不会读的生僻字</p>
-<p><strong>自定义设置：导入词库和自学习、编辑自定义短语、人名输入、上下文智能短语抽取</strong></p>
-<p>
-  <img loading="lazy" src="https://rmt.dogedoge.com/fetch/lucy/storage/wz.gif" alt=""  /></p>
-<p>「<strong>繁体/简体</strong>」快速切换，快捷键为「<strong>Ctrl+Shift+F</strong>」</p>
-<p>
-  <img loading="lazy" src="https://rmt.dogedoge.com/fetch/lucy/storage/shuru.gif" alt=""  /></p>
-<h2 id="07win10抖动窗口最小化其他窗口">07.Win10抖动窗口最小化其他窗口</h2>
-<p>当我们打开很多窗口的时候，想快速将其他窗口最小化，只需要拖动当前窗口快速「<strong>抖动</strong>」两下即可实现。</p>
-<p>
-  <img loading="lazy" src="https://rmt.dogedoge.com/fetch/lucy/storage/win10.gif" alt=""  /></p>
-<p>感谢阅读，这是2021年的第二篇文章。下一篇带来Win10实用软件推荐。</p>
-]]></content:encoded>
+      <description>简洁是高效工作的前提，如何将我们的电脑桌面发挥它的最大作用，下面以Windows 10为例介绍。
+看似平平无奇，这就是今天介绍的。
+01.Win10自带的磁贴功能收纳快捷方式 使用之前需要先设置“开始”页面。打开设置→个性化→开始→使用全屏开始屏幕，勾选**“使用全屏开始屏幕”和“在开始菜单上显示更多磁贴”**。右键单击需要添加到此磁贴的应用，选择“固定到开始屏幕”，即可添加应用至磁贴中。如下图所示：
+将经常使用的软件添加至磁贴，桌面可以做到几乎没有一项图标，可以不像我那样，大可只新建一个文件夹，用来存放临时文档。
+02.Win10多窗口分屏——让操作更简单 在工作的时候经常需要来回切换多个窗口，而来回切换即费时间又容易弄混，在Win7和Win10系统都存在这个分屏功能，支持二/三/四屏分屏。分屏之后的各窗口互不影响，独立工作。使用方法：拖住窗口移动至桌面上下或左右边缘，即可实现分屏操作。
+如上图所示，拖动之后，一边窗口会自动缩小，另一边由你选择其他窗口进行补充。除了通过鼠标拖动窗口来实现分屏，还可以通过「Win键+←/→」的方式来实现：在当前的页面按下「Win键+→」，窗口就会自动向右缩小为原来的一半，同时左边空白的部分可以选择其他窗口进行补充。
+如果已经处于二分屏状态，则可通过「Win键+↑/↓」来开启三/四分屏。使用方法同样简单，选中二分屏中一个页面，按下「Win键+↑/↓」即可实现。
+03.Win10任务视图——创建多个桌面 任务视图是一个在Windows 10中首次引入的任务切换器和虚拟桌面系统。任务视图允许用户快速定位到已打开的窗口，快速隐藏所有窗口并显示另一个桌面，以及管理多个监视器或虚拟桌面上的窗口。单击任务栏上的“任务视图”按钮或从屏幕左侧滑动将展示所有窗口，然后允许用户切换这些窗口，或者切换多个工作区。（来自百度百科）
+一台电脑当作多台电脑使用，相当于有了一台“虚拟电脑”。将电脑桌面按用途分为工作桌面、写作桌面、游戏桌面、摸鱼桌面。按快捷键「Win键+Tab」即可在最顶部看到桌面选项，点击「+号」即可创建新桌面。
+Tips：工作（摸鱼）专用快捷键
+Win+Ctrl+D：快速创建新的桌面并切换过去 Win+Ctrl+F4：删除当前使用的虚拟桌面 Win+Ctrl+←/→：快速切换到相邻的左右桌面
+熟悉掌握这些快捷键，可以大大提高工作效率和摸鱼速度。
+04.Win10中隐藏的剪切板——Win+V 貌似在以前的系统里并没有剪贴板功能，而在Windows10中内置了该剪贴板功能，在剪贴板里你可以看到最近复制粘贴的文字和图片。同时你也可以选择关机时是否清理剪贴板里的内容。快捷键：「Win+V」
+05.Win10常用快捷键 「Win+i」打开Windows的配置窗口 「Win+A」打开Windows的通知中心 「Win+D」一键显示桌面，将所有的窗口最小化 「Win+E」快速打开资源管理器——“我的电脑” 「Win+L」一键锁定电脑屏幕 「Win+Q/S」快速打开Cortans搜索框 「Win+数字键」一次打开固定在任务栏的软件 「Win+“+”或“-”」使用系统放大镜功能 「Ctrl+Alt+Del」快速打开任务管理器 「Ctrl+Shift」快速切换输入法 「Ctrl+空格」快速切换中英文输入 「Alt+Tab」快速切换到不同的窗口视图 「Ctrl+Tab」快速切换浏览器窗口 「Ctrl+Shift+T」一键打开上一个被关闭的网页 「Win+句号键」打开系统自带表情符号 「Ctrl+Shift+B」调出Win10的特殊符号面板（比上一条丰富） 「Ctrl+Shift+F」文字简繁体切换 06.Win10输入法——被忽视的强大功能 看起来平平无奇，但功能强大到可以不用下载其他输入法。
+自带输入法的U/V输入模式
+46个二百五等于多少？
+各种格式的数字
+各种格式的时间
+不会读的生僻字
+自定义设置：导入词库和自学习、编辑自定义短语、人名输入、上下文智能短语抽取
+「繁体/简体」快速切换，快捷键为「Ctrl+Shift+F」
+07.Win10抖动窗口最小化其他窗口 当我们打开很多窗口的时候，想快速将其他窗口最小化，只需要拖动当前窗口快速「抖动」两下即可实现。
+感谢阅读，这是2021年的第二篇文章。下一篇带来Win10实用软件推荐。</description>
     </item>
     
   </channel>
