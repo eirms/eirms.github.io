@@ -1,3 +1,5 @@
 .hljs {
   padding: 1em;
 }
+
+@media(min-width:961px){.masthead{position:sticky;top:50px;}}
