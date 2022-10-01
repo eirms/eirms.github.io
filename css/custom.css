@@ -15,10 +15,7 @@ blockquote {
     background-repeat: no-repeat;
     background-position: 10px 10px;
     color: rgba(0,0,0,.7);
-    margin-top: 0;
-    margin-bottom: 15px;
     margin-left: 0;
     margin-right: 0;
     padding: 20px 20px 20px 60px;
-    position: relative;
 }
