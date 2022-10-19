@@ -488,5 +488,7 @@
     <loc>https://eirms.com/docs/</loc>
   </url><url>
     <loc>https://eirms.com/search/</loc>
+  </url><url>
+    <loc>https://eirms.com/photos/</loc>
   </url>
 </urlset>
