@@ -25,6 +25,9 @@ button, input, select, textarea, label {
 
 img {
   max-width: 100%;
+  margin: 1rem auto;
+  display: block;
+  text-align: center;
 }
 
 /* Typography */
